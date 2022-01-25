@@ -113,3 +113,26 @@ for idx in range(len(chess)):
 R1, S = map(int, input().split())
 print(2*S - R1)
 
+# 5522번 - JOI군의 각 게임의 득점을 나타내는 정수가 주어졌을 때, JOI군의 총점
+
+a1 = int(input())
+a2 = int(input())
+a3 = int(input())
+a4 = int(input())
+a5 = int(input())
+
+print(a1 + a2 + a3 + a4 + a5)
+
+# 5554번 - 이동시간 초 -> 분, 초
+
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+
+x, y = divmod((a+b+c+d), 60)
+print(x)
+print(y)
+
+# 7289번
+
