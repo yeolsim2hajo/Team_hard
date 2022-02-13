@@ -18,7 +18,9 @@
    "id": "80e182a5",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "정답 : 1"
+   ]
   },
   {
    "cell_type": "code",
@@ -36,7 +38,9 @@
    "id": "116580d9",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "정답 : div"
+   ]
   },
   {
    "cell_type": "code",
@@ -56,7 +60,9 @@
    "id": "6c347079",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "정답 : 4"
+   ]
   },
   {
    "cell_type": "code",
@@ -75,7 +81,9 @@
    "id": "7e0730b4",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "정답 : 2"
+   ]
   },
   {
    "cell_type": "code",
@@ -93,7 +101,9 @@
    "id": "8839eff9",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "정답 : rem"
+   ]
   },
   {
    "cell_type": "code",
@@ -112,7 +122,9 @@
    "id": "08b9bbe7",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "정답 : content - padding - border - margin"
+   ]
   },
   {
    "cell_type": "code",
@@ -130,7 +142,9 @@
    "id": "835d5fac",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "정답 : block"
+   ]
   },
   {
    "cell_type": "code",
@@ -148,7 +162,9 @@
    "id": "e1a74bbb",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "정답 : justify-content"
+   ]
   },
   {
    "cell_type": "code",
@@ -168,7 +184,9 @@
    "id": "77a08e79",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "정답 : 3"
+   ]
   },
   {
    "cell_type": "code",
@@ -186,7 +204,9 @@
    "id": "aa5f0053",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "정답 : 부트스트랩에서 글씨체를 이태리체(기울임꼴)로 바꿈"
+   ]
   },
   {
    "cell_type": "code",
@@ -202,7 +222,9 @@
    "id": "7d471cfe",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "아래는 pdf 문제"
+   ]
   },
   {
    "cell_type": "code",
@@ -210,7 +232,9 @@
    "id": "1ce6d3c5",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "1. (1. T / 2. T / 3. T / 4. F / 4-2 T)"
+   ]
   },
   {
    "cell_type": "code",
@@ -218,12 +242,34 @@
    "id": "7a195b56",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "2. (1. T / 2. F / 3. T / 4. T / 5. T / 6. T / 7. T / 8. T / 9. T)"
+   ]
   },
   {
    "cell_type": "code",
    "execution_count": null,
    "id": "303bc71e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "3. (1. F / 2. T / 3. T / 4. T)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2b100447",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "4. (1. T / 2. T / 3. F / 4. F)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "544b82af",
    "metadata": {},
    "outputs": [],
    "source": []
