@@ -6,7 +6,7 @@ original_arr = [[T[0],T[1],T[2]], [T[3],T[4],T[5]]]
 max_num = max(T)
 min_num = min(T)
 
-min_x = 0
+min_x = 0 # position 
 min_y = 0
 max_x = 0
 max_y = 0
