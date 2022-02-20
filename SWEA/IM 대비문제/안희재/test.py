@@ -1,28 +1,14 @@
-# 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
-# 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
-# 1 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1
-# 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1
-# 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
-# 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
-# 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
-# 1 0 0 1 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1
-arr = [list(map(int,input().split())) for _ in range(8)]
+N = int(input())
+arr = [list(map(int,input().split())) for _ in range(N)]
 
-answer = 0
-for i in range(19):
-    (x, y) = (0, i)
-    if arr[0][i] == 1: #이제 여기서부터 시작
-        while x < 8:
-            x += 1
-            if y+1 < 18:
-                if arr[x][y+1] == 1: # 끝 사다리의 경우 문제인데..?
-                    while arr[x][y] == 0:
-                        y += 1
-            elif y-1 >= 0:
-                if arr[x][y-1] == 1: # 처음 사다리의 경우 문제인데..?
-                    while arr[x][y] == 0:
-                        y -= 1
-        if arr[x][y] == 2:
-            answer = i
-        
-print(answer)
+corridor = [0] * 200
+for i in range(N):
+    if arr[i][0] > arr[i][1]:
+        arr[i][0], arr[i][1] = arr[i][1], arr[i][0] # 30, 20인경우 -> 20, 30으로
+    s = (arr[i][0] - 1) // 2 # index이므로 -1. no.1칸은 corridor의 0번칸
+    e = (arr[i][1] - 1) // 2
+
+    for j in range(s,e+1): # i번 학생이 지나는 모든 복도구간을 버킷에 표시해줌
+        corridor[j] += 1
+
+print(corridor)
