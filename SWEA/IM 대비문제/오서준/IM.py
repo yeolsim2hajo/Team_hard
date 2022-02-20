@@ -1,8 +1,7 @@
- # This is a sample Python script.
-
+# This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift =to search =everywhere for classes, files, tool windows, actions, and settings.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
 def print_hi(name):
@@ -15,11 +14,13 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
 import sys
+sys.stdin=open('case.text')
 
-sys.stdin = open('tc.text')
 
-                                    #방 들어가기
+                                   #방 들어가기
 # def go(arr):
 #     bucket = [0] * 201
 #     for i in range(len(arr)):
@@ -50,116 +51,48 @@ sys.stdin = open('tc.text')
 
 
                                         #어디에 단어가 들어갈 수 있을까(오답)
-
-def move(arr, M, K):
-    arrr = [[0]*(M+2) for _ in range(M+2)]
-    cnt = 0
-    ar=[0]
-    for i in range(K):
-        ar=ar+[1]
-    ar=ar+[0]
-
-    for i in range(M):
-        for j in range(M):
-            arrr[i+1][j+1]=arr[i][j]
-
-    for i in range(len(arrr)):
-        arr_row = []
-        arr_col = []
-        for k in range(K+2):
-            arr_row = arr_row + [arrr[i][k]]
-            arr_col = arr_col + [arrr[k][i]]
-
-            for j in range(M - K + 1):
-                if arr_row == ar:
-                    cnt += 1
-                if arr_col == ar:
-                    cnt += 1
-                if j + K<M:
-                    break
-                arr_row = arr_row[1:] + [arr[i][j +K+2]]
-                arr_col = arr_col[1:] + [arrr[j +K+2][i]]
-
-    return cnt
-
-
-
-TC = int(input())
-for t in range(1, TC + 1):
-     M, K = map(int, input().split())
-     arr = [list(map(int, input().split())) for _ in range(M)]
-     print(f'#{t} {move(arr, M, K)}')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# def move(arr, M, K):
-#     ar = []
-#     cnt = 0
 #
-#     for i in range(len(arr)):
+# def move(arr, M, K):
+#     arrr = [[0]*(M+2) for _ in range(M+2)]
+#     cnt = 0
+#     ar=[0]
+#     for i in range(K):
+#         ar=ar+[1]
+#     ar=ar+[0]
+#
+#     for i in range(M):
+#         for j in range(M):
+#             arrr[i+1][j+1]=arr[i][j]
+#
+#     for i in range(len(arrr)):
 #         arr_row = []
 #         arr_col = []
-#         for k in range(K):
-#             arr_row = arr_row + [arr[0][k]]
-#             arr_col = arr_col + [arr[k][0]]
+#         for k in range(K+2):
+#             arr_row = arr_row + [arrr[i][k]]
+#             arr_col = arr_col + [arrr[k][i]]
 #
 #         for j in range(M - K + 1):
 #             if arr_row == ar:
-#                 if j > 0 and j + K < M:
-#                     if arr[i][j - 1] == 0 and arr[i][j + K] == 0:
-#                         cnt += 1
-#                 elif j > 0:
-#                     if arr[i][j - 1] == 0:
-#                         cnt += 1
-#                 elif j + K <= M:
-#                     if arr[i][j + K] == 0:
-#                         cnt += 1
-#                 else:
-#                     cnt += 1
+#                 cnt += 1
 #             if arr_col == ar:
-#                 if j > 0 and j + K < M:
-#                     if arr[j - 1][i] == 0 and arr[j + K][i] == 0:
-#                         cnt += 1
-#                 elif j > 0:
-#                     if arr[j - 1][i] == 0:
-#                         cnt += 1
-#                 elif j + k < M:
-#                     if arr[j + K][i] == 0:
-#                         cnt += 1
-#                 else:
-#                     cnt += 1
-#
-#             if j + K==M:
+#                 cnt += 1
+#             if j>=M-K:
 #                 break
-#             arr_row = arr_row[1:] + [arr[i][j + K]]
-#             arr_col = arr_col[1:] + [arr[j + K][i]]
+#             arr_row = arr_row[1:] + [arrr[i][j +K+2]]
+#             arr_col = arr_col[1:] + [arrr[j +K+2][i]]
 #
 #     return cnt
 #
 #
+#
 # TC = int(input())
 # for t in range(1, TC + 1):
-#     M, K = map(int, input().split())
-#     arr=[list(map(int,input().split())) for _ in range(M)]
-#     print(f'#{t} {move(arr, M, K)}')
+#      M, K = map(int, input().split())
+#      arr = [list(map(int, input().split())) for _ in range(M)]
+#      print(f'#{t} {move(arr, M, K)}')
+#
+
+
 
 
 
@@ -217,3 +150,5 @@ for t in range(1, TC + 1):
 #     N=int(input())
 #     ar=list(map(int,input().split()))
 #     print(f'#{t} {coins(ar,N)}')
+
+
