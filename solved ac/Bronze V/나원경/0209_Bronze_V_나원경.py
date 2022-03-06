@@ -107,18 +107,17 @@ else:
 #2530 인공지능 시계 - 나중에
 # a, b, c = [int(x) for x in input().split()]
 # d = int(input())
-# minute = c+d//60
-# hour = b+minute//60
-# if minute:
-#     if hour:
-#         if hour+a//24:
-#             print(hour+a%24, )
 
+# if (c+d)//60:
+#     second = (c+d)%3600
+#     minute = b
+# elif (b+minute)//60:
+#     hour += (b+minute)//60
+#     minute = (b+minute) % 60
+# elif (a+hour)//24:
+#     hour = (hour+a)//24
 
-#     else:
-
-# else:
-#     print(a, b, c+d)
+# print(hour+a, minute+b, c+second)
 
 
 # 2588 곱셈
