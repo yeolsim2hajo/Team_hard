@@ -58,3 +58,21 @@
 #     ar[i]=a
 #     a-=1
 # print(ar[2])
+
+# # 4-11. 합구하기
+# ar=list(map(int,input().split()))
+# sum=0
+# for i in ar:
+#     sum+=i
+# print(sum)
+
+# # 4-12. index값 입력받고 끝까지 출력
+# ar=[5,25,54,2,-33,57,82,-8,13,1]
+# index=int(input())
+# for i in range(index,len(ar)):
+#     print(ar[i])
+
+# #4.5-1. index값 입력받고 출력하기
+# ar=[3,2,6,7,1,8]
+# i=int(input())
+# print(ar[i])
