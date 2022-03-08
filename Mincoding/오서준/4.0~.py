@@ -76,3 +76,29 @@
 # ar=[3,2,6,7,1,8]
 # i=int(input())
 # print(ar[i])
+
+# #4.5-2. 복잡한 조건에 따라 문제 풀어보기
+
+# num=int(input())
+# if num != 3:
+#     print('3이 아니다')
+
+# if num != 5:
+#     print('5가 아니다')
+
+# if 1<num<10:
+#     for i in range(5,0,-1):
+#         print(i)
+
+
+# #4.5-3. 배열에 숫자를 순서대로 채우기
+# ar=[0]*5
+# num=int(input())
+# for i in range(5):
+#     ar[i]=num
+# print(*ar,sep='')
+
+# #4.5-4. 배열 하드코딩하기
+# ar=[1,7,3,2,6]
+# for i in ar:
+#     print(i,end='')
