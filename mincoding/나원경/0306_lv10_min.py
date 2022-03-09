@@ -174,6 +174,19 @@ def a_to_z():
 
 main()
 
+
+# 다른 방법 (0309 추가)
+
+def a_to_z():
+    import math
+    munja = input()
+    if math.isclose(ord(munja), ord('A'), abs_tol=13):
+        return 'A'
+    else:
+        return 'Z'
+
+main()
+
 #8 Grade Calculator
 def main():
     print(calculator())
