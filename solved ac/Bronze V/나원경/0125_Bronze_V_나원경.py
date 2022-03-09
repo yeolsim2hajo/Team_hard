@@ -28,13 +28,13 @@ print(n % m) # 나머지
 # 1550번 - 다시
 
 # 16진수 -> 10진수
-hex_num = input()
-num_list = list(map(int, list(range(10))))
-over_9_list = list(range(ord('A'), ord('F')+1))
-over_9_list = list(map(chr, over_9_list))
-num_list += over_9_list
+# hex_num = input()
+# num_list = list(map(int, list(range(10))))
+# over_9_list = list(range(ord('A'), ord('F')+1))
+# over_9_list = list(map(chr, over_9_list))
+# num_list += over_9_list
 
-print(num_list.find(hex_num))
+# print(num_list.find(hex_num))
 
 
 # 2338번 - 두 수 A, B를 입력받아, A+B, A-B, A×B를 구하는 프로그램을 작성
