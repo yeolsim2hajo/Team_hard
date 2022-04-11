@@ -7,7 +7,8 @@
 # 3-> 1 6 -> 2 9 -> 3 / 33 -> 4? (1+3)  36 -> 5? (2+3) 39 -> 6 (3+3)? / 63 -> 7 (1+6)
 
 
-def sol():
+def sol():    num = list(input())
+
     num = list(input())
     clap = 0
     cnt = 1
