@@ -24,8 +24,8 @@ from random import sample
 
 
 # SWEA 문제 중 모의 평가할 문제를 랜덤으로 반환하는 코드 작성
-problem_lst = ['홈','원자','벌꿀','보급로'] # 문제 목록
-number = 1 # 풀 문제 수
+problem_lst = ['벌꿀','보급로'] # 문제 목록
+number = 2 # 풀 문제 수
 print(*sample(problem_lst,number))
 
 # import random

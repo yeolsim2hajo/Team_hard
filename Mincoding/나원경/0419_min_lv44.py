@@ -29,3 +29,9 @@
 # N = int(input())
 # for i in range(N):
 #     print(word_3.get(input(),0))
+
+
+#4 공룡들의 나이 정리
+# age = int(input())
+# dino = {5:'Sour', 2:'Dav', 3:'Nica', 6:'Timer', 15:'Pico',22:'Topisl',13:'Whab',9:'Hap'}
+# print(dino.get(age-1000000000))
