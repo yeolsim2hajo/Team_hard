@@ -10,9 +10,9 @@ Lcs의 가장 기초적인 문제
 
 '''
 
-arr1='ACAYKP' # y축 6
-arr2='CAPCAK'# x축 7열
-
+arr1='THISISSTRINGS' # y축 6
+arr2='KIOTHIKESSISKKQQAEW'# x축 7열
+#THIS SIS?
 lst=[[0 for _ in range(len(arr2)+1)]for _ in range(len(arr1)+1)] # 6행    7열
 
 for x in range(1,len(arr1)+1):
@@ -23,3 +23,5 @@ for x in range(1,len(arr1)+1):
             lst[x][y]=max(lst[x-1][y],lst[x][y-1])
 
 print(lst[-1][-1])
+for i in lst:
+    print(i)
