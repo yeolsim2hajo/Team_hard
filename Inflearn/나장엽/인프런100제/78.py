@@ -20,21 +20,20 @@
 출력
 [3, 5]
 '''
-
-def func(m,n) :
-    food = [i for i in range(1,n+1)]
+def roundTable(m,n) :
+    foodList = [i for i in range(1,n+1)]
     idx = 0
 
-    while len(food) > 2 : # 2접시는 남겨야하니까..!
+    while len(foodList) > 2 :
         # 첫번째 음식을 먹음
-        food.pop(idx)
-        # 음식 삭제와 함께 인덱스 1을 빼주기.
+        foodList.pop(idx)
+        # 요소의 삭제와 함께 인덱스 1을 빼주는 게 포인트
         idx+=(m-1)
-        if idx > len(food) -1 :
-            idx -= len(food)
+        if idx > len(foodList) -1 :
+            idx -= len(foodList)
             print(idx)
-            food.pop(idx)
+            foodList.pop(idx)
             idx-=1
-    return food
+    return foodList
 
-print(func(3,6))
+print(roundTable(3,6))

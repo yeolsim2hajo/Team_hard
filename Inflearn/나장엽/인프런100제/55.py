@@ -11,5 +11,3 @@ def abc(cnt, start, target, sub):
 abc(3, 'A','B','C')
 print(arr)
 print(len(arr))
-    
-    
