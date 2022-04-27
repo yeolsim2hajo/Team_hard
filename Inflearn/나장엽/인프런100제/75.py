@@ -7,16 +7,22 @@
 # 3-> 1 6 -> 2 9 -> 3 / 33 -> 4? (1+3)  36 -> 5? (2+3) 39 -> 6 (3+3)? / 63 -> 7 (1+6)
 
 
-def sol():    num = list(input())
+from itertools import product
 
-    num = list(input())
-    clap = 0
-    cnt = 1
-    data = {'3': 1, '6': 2, '9': 3}
+user_input = '93'
+listA = []
+listB = []
+count = 0
 
-    for i in range(len(num)):
-        clap += data[num.pop()] * cnt
-        cnt *= 3
+for i in range(1,len(user_input)+1) :
+    listA+=list(product([3,6,9],repeat=i))
 
-    return clap
-print(sol())
+
+for i in listA :
+    totalStr = ''
+    for j in i :
+        totalStr+=str(j)
+    if int(user_input) >= int(totalStr) :
+        count+=1
+
+print(count)
