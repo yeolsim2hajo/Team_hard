@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0412_inflearn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inflearn/나원경/0412_inflearn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/0214_과목대비_Web_문제_나원경_정답지.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problems/과목평가_대비/나원경/0214_과목대비_Web_문제_나원경_정답지.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/yeol_jeong.html" beforeDir="false" afterPath="$PROJECT_DIR$/problems/과목평가_대비/나원경/yeol_jeong.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28XYXt5NKExnEGzV1WfYv0rkUCj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/solved ac/나원경/class 1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="" />
+      <created>1651364440625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651364440625</updated>
+    </task>
+    <servers />
+  </component>
+</project>
