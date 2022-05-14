@@ -11,7 +11,6 @@ from collections import deque
 import sys
 input = sys.stdin.readline
 
-N = int(input())
 stack, answer, find = deque(), [], True # 스택, 결과값, 불가능, 가능 판단
 
 
