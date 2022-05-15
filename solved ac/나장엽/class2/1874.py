@@ -11,6 +11,7 @@ from collections import deque
 import sys
 input = sys.stdin.readline
 
+N = int(input()) # 그냥 Input 함수는 느려터짐
 stack, answer, find = deque(), [], True # 스택, 결과값, 불가능, 가능 판단
 
 
