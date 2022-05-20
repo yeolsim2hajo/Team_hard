@@ -1,6 +1,6 @@
 # 알고리즘 책에서 모의 평가할 문제 랜덤으로 반환하는 코드 작성
 
-from random import sample
+# from random import sample
 
 # chapter = ['greedy', 'simulation', 'dfs/bfs', 'sort', 'binary search', 'dynamic programming', 'shortest_path', 'graph']
 # possible = [0.5, 0.5, 0.5, 0.5, 0.5, 0, 0, 0] # 알고리즘 학습 여부 (0.5는 쉬운 문제만 풀 수 있을 정도) # 당분간은 1 없이 0.5로만 할 예정
@@ -24,9 +24,10 @@ from random import sample
 
 
 # SWEA 문제 중 모의 평가할 문제를 랜덤으로 반환하는 코드 작성
-problem_lst = ['벌꿀','보급로'] # 문제 목록
-number = 2 # 풀 문제 수
-print(*sample(problem_lst,number))
+# problem_lst = ['벌꿀','보급로'] # 문제 목록
+# number = 2 # 풀 문제 수
+# print(*sample(problem_lst,number))
 
-# import random
-# print(random.sample(['원경', '장엽', '한', '희재'],4))
+import random
+for _ in range(3):
+    print(random.sample(['원경', '장엽', '한'],1))
