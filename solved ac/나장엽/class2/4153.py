@@ -1,12 +1,15 @@
 while True:
-    a, b, c = map(int, input().split())
-    
-    if a == 0 and b == 0 and c == 0:
+    numbers  = list(map(int, input().split()))
+    if 0 in numbers:
         break
-    else:
-        num1 = a**2 + b**2
+    Max = max(numbers)
 
-        if num1 == c**2 :
-            print('right')
-        else:
-            print('wrong')
+    temp = 0
+    for i in range(len(numbers)):
+        if numbers[i] != Max:
+            temp += numbers[i]**2
+
+    if temp == Max**2:
+        print('right')
+    else:
+        print('wrong')
