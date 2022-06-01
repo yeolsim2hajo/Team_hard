@@ -29,5 +29,8 @@
 # print(*sample(problem_lst,number))
 
 import random
-for _ in range(3):
-    print(random.sample(['원경', '장엽', '한'],1))
+# for _ in range(3):
+#     print(random.sample(['원경', '장엽', '한'],1))
+print(random.choice(['장엽','한','희재']))
+print(random.choice(['장엽','한','희재']))
+
