@@ -1,4 +1,6 @@
 # 완전탐색, N<=50 이하, 단순 for문으로 해결 가능
+# https://www.acmicpc.net/problem/7568
+
 N = int(input())
 data = []
 answer = []
