@@ -20,3 +20,27 @@ while start <= end:
 else:
     max_height = end
 print(max_height)
+
+#10828 스택
+from sys import stdin
+new_input = stdin.readline
+N = int(new_input())
+stack = []
+size = 0
+for _ in range(N):
+    command = new_input().rstrip()
+    if command == 'top':
+        answer = stack[-1] if stack else -1
+    elif command == 'size':
+        answer = size
+    elif command == 'empty':
+        answer = 0 if stack else 1
+    elif command == 'pop':
+        size = size - 1 if size else 0
+        answer = stack.pop() if stack else -1
+    else:
+        size += 1
+        stack.append(command.split()[1])
+        continue
+    print(answer)
+
