@@ -113,22 +113,23 @@
 #                 break
 
 # dict - pypy로 하면 시간 초과 x
-# import sys
-# N, M = map(int,input().split())
-# new_input = sys.stdin.readline
-# monster = {}
-# for i in range(N):
-#     monster[new_input().rstrip()] = i+1
-# for _ in range(M):
-#     problem = new_input().rstrip()
-#     if problem.isdigit():
-#         problem = int(problem)
-#         for key,value in monster.items():
-#             if value == problem:
-#                 print(key)
-#                 break
-#     else:
-#         print(monster[problem])
+import sys
+N, M = map(int,input().split())
+new_input = sys.stdin.readline
+monster = {}
+for i in range(N):
+    key = new_input().rstrip() # 시간과 관계 없음?
+    monster[key] = i+1
+for _ in range(M):
+    problem = new_input().rstrip()
+    if problem.isdigit():
+        problem = int(problem)
+        for key,value in monster.items():
+            if value == problem:
+                print(key)
+                break
+    else:
+        print(monster[problem])
 
 
 # dict 시간 초과 해결 위해.... - 메모리 덜 차지 & 시간 빠름
