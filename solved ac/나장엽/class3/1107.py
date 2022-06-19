@@ -59,17 +59,17 @@
 
 
 
-def dfs(level):
+def dfs(level, length):
     global Min, make_channel
     global answer 
-    if level == len(N):
+    if level == length:
         channel = int(''.join(map(str, make_channel)))
-        Min = min(Min, abs(int(N) - channel) + len(str(channel)))
+        Min = min(Min, abs(int(N) - channel) + length)
         return
     for i in range(10):
         if not broke[i]:
             make_channel.append(i)
-            dfs(level+1)
+            dfs(level+1, length)
             make_channel.pop()
 
     
@@ -80,8 +80,11 @@ if M > 0:
     for i in list(map(int, input().split())):
         broke[i] = True
 
+
 Min = abs(int(N) - 100)
 
 make_channel = []
-dfs(0)
+for i in range(1, len(N) + 2):
+    dfs(0, i)
+
 print(Min)
