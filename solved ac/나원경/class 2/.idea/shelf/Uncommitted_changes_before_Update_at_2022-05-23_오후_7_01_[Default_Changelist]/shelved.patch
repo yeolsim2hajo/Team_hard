@@ -1,0 +1,280 @@
+Index: 0523_solved_ac.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/0523_solved_ac.py b/0523_solved_ac.py
+new file mode 100644
+--- /dev/null	(date 1653300029762)
++++ b/0523_solved_ac.py	(date 1653300029762)
+@@ -0,0 +1,24 @@
++#1966 프린터 큐
++T = int(input())
++for _ in range(T):
++    N, M = map(int, input().split())
++    documents = input().split()
++    printed = [False] * N
++    cnt = front = 0
++    while True:
++        idx = front%N
++        if printed[idx]:
++            front += 1
++        else:
++            for i in range(N):
++                if printed[i] is False and documents[i] > documents[idx]:
++                    front += 1
++                    break
++            else:
++                cnt += 1
++                if idx == M:
++                    print(cnt)
++                    break
++                else:
++                    printed[idx] = True
++                    front += 1
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ac7c88ec-0fb0-4cae-b2bd-bfb2a87f2e62\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/solved ac class 2.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/solved ac class 2.md\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"296oJr2QK4ltjYLBtXDnoOMzUAY\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../../../../../../../../../Pycharm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\" />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"ac7c88ec-0fb0-4cae-b2bd-bfb2a87f2e62\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1652442830344</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1652442830344</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8c0027bb4a63f7c48c90198e77e05962d5d52800)
++++ b/.idea/workspace.xml	(date 1653277500248)
+@@ -1,13 +1,24 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="ac7c88ec-0fb0-4cae-b2bd-bfb2a87f2e62" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/solved ac class 2.md" beforeDir="false" afterPath="$PROJECT_DIR$/solved ac class 2.md" afterDir="false" />
++    <list default="true" id="ac7c88ec-0fb0-4cae-b2bd-bfb2a87f2e62" name="Default Changelist" comment="0522">
++      <change afterPath="$PROJECT_DIR$/0523_solved_ac.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Python Script" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+   </component>
+   <component name="ProjectId" id="296oJr2QK4ltjYLBtXDnoOMzUAY" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+@@ -18,9 +29,126 @@
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../../../Pycharm" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+   </component>
++  <component name="RunManager" selected="Python.0523_solved_ac">
++    <configuration name="0518_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="class 2" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0518_solved_ac.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="0519_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="class 2" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0519_solved_ac.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="0522_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="class 2" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0522_solved_ac.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="0523_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="class 2" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0523_solved_ac.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <configuration name="algorithm_random" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="class 2" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$USER_HOME$/OneDrive/문서/GitHub/Team_hard" />
++      <option name="IS_MODULE_SDK" value="false" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$USER_HOME$/OneDrive/문서/GitHub/Team_hard/algorithm_random.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Python.0523_solved_ac" />
++        <item itemvalue="Python.0522_solved_ac" />
++        <item itemvalue="Python.0519_solved_ac" />
++        <item itemvalue="Python.algorithm_random" />
++        <item itemvalue="Python.0518_solved_ac" />
++      </list>
++    </recent_temporary>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+       <changelist id="ac7c88ec-0fb0-4cae-b2bd-bfb2a87f2e62" name="Default Changelist" comment="" />
+@@ -29,6 +157,54 @@
+       <option name="presentableId" value="Default" />
+       <updated>1652442830344</updated>
+     </task>
++    <task id="LOCAL-00001" summary="0518">
++      <created>1652875868159</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1652875868159</updated>
++    </task>
++    <task id="LOCAL-00002" summary="0519">
++      <created>1652969713682</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1652969713682</updated>
++    </task>
++    <task id="LOCAL-00003" summary="0521">
++      <created>1653091888838</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1653091888838</updated>
++    </task>
++    <task id="LOCAL-00004" summary="0522">
++      <created>1653194607942</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1653194607943</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="0518" />
++    <MESSAGE value="0519" />
++    <MESSAGE value="0521" />
++    <MESSAGE value="0522" />
++    <option name="LAST_COMMIT_MESSAGE" value="0522" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: solved ac class 2.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Solved ac Class 2\r\n\r\n```\r\n그 전에 푼 문제 (0)\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0504_solved_ac.py \r\n\r\n```\r\n못 푼 문제 (1) : 1018 체스판 다시 칠하기\r\n푼 문제 (1) : 1085 직사각형에서 탈출\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0505_solved_ac.py \r\n\r\n```\r\n푼 문제 (1) : 1181 단어 정렬 - 다른 방법으로 풀어보기\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0506_solved_ac.py \r\n\r\n```\r\n푼 문제 (1) : 1259 팰린드롬수\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0507_solved_ac.py \r\n\r\n```\r\n못 푼 문제 (3) : 1436 영화감독 숌 / 1654 랜선 자르기 / 1874 스택 수열\r\n푼 문제 (2) : 1920 수 찾기 / 1929 소수 구하기 (3가지 방법으로 품)\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0508_solved_ac.py \r\n\r\n```\r\n못 푼 문제 (1) : 1966 프린터 큐\r\n푼 문제 (1) : 1978 소수 찾기 (에라토스테네스의 체 사용 X)\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0509_solved_ac.py \r\n\r\n```\r\n못 푼 문제 (3) : 2108 통계학 / 2164 카드2 / 2231 분해합\r\n푼 문제 (1) : 2292 벌집\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0510_solved_ac.py \r\n\r\n```\r\n못 푼 문제 (1) : 2751 수 정렬하기 2\r\n푼 문제 (1) : 2609 최대공약수와 최소공배수 - 알고리즘 이용해서도 풀어보자\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0511_solved_ac.py \r\n\r\n```\r\n푼 문제 (1) : 2775 부녀회장이 될테야 - 재귀로 푸는 건 실패\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0512_solved_ac.py \r\n\r\n```\r\n못 푼 문제 (1) : 2805 나무 자르기\r\n푼 문제 (1) : 2798 블랙잭\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0513_solved_ac.py \r\n\r\n```\r\n푼 문제 (2) : 2839 설탕 배달 / 2869 달팽이는 올라가고 싶다\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0514_solved_ac.py \r\n\r\n```\r\n푼 문제 (2) : 4153 직각삼각형 / 4949 균형잡힌 세상 - 스택 사용 (다른 방법으로도 풀어보자)\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0515_solved_ac.py \r\n\r\n```\r\n푼 문제 (3) : 7568 덩치 / 9012 괄호 / 10250 ACM 호텔\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0516_solved_ac.py \r\n\r\n```\r\n푼 문제 (1) : 10773 제로\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0517_solved_ac.py \r\n\r\n```\r\n푼 문제 (1) : 10814 나이순 정렬\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0518_solved_ac.py \r\n\r\n```\r\n못 푼 문제 (1) : 10828 스택\r\n푼 문제 (1) : 10816 숫자 카드2\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0519_solved_ac.py \r\n\r\n```\r\n못 푼 문제 (3) : 10845 큐, 10866 덱, 10989 수 정렬하기\r\n푼 문제 (1) : 11050 이항 계수 1\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0520_solved_ac.py \r\n\r\n```\r\n푼 문제 (1) : 11650 좌표 정렬하기 - 힙 정렬로 풀기 실패\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0521_solved_ac.py \r\n\r\n```\r\n못 푼 문제 (1) : 11651 좌표 정렬하기2\r\n푼 문제 (1) : 11866 요세푸스 문제 0, 15829 Hashing\r\n```\r\n\r\n\r\n\r\n---\r\n\r\n### 0522_solved_ac.py \r\n\r\n```\r\n못 푼 문제 (4) : 18111 마인크래프트 /  1018 체스판 다시 칠하기 / 1436 영화감독 숌 / 1654 랜선 자르기\r\n푼 문제 (1) : 1874 스택 수열\r\n```\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/solved ac class 2.md b/solved ac class 2.md
+--- a/solved ac class 2.md	(revision 8c0027bb4a63f7c48c90198e77e05962d5d52800)
++++ b/solved ac class 2.md	(date 1653300048716)
+@@ -204,3 +204,13 @@
+ 푼 문제 (1) : 1874 스택 수열
+ ```
+ 
++
++
++---
++
++### 0522_solved_ac.py 
++
++```
++푼 문제 (1) : 1966 프린터 큐
++```
++

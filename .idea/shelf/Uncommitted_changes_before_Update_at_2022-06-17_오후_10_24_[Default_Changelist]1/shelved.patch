@@ -1,0 +1,300 @@
+Index: solved ac/나원경/class 3/Solved ac Class 3.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Solved ac Class 3\r\n\r\n### 1003 피보나치 함수\r\n\r\n```\r\n0605_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 1012 유기농 배추\r\n\r\n```\r\n0605_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 1074 Z\r\n\r\n```\r\n0606_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 1107 리모컨\r\n\r\n```\r\n0606_solved_ac.py - 풀지 못함\r\n```\r\n\r\n---\r\n\r\n### 1260 DFS와 BFS\r\n\r\n```\r\n0606_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 1389 케빈 베이컨의 6단계 법칙\r\n\r\n```\r\n0607_solved_ac.py - 풀지 못함\r\n- 그래프 탐색/최단거리 좀 더 공부하기\r\n```\r\n\r\n---\r\n\r\n### 1463 1로 만들기\r\n\r\n```\r\n0607_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 1541 잃어버린 괄호\r\n\r\n```\r\n0607_solved_ac.py - 풀지 못함\r\n```\r\n\r\n---\r\n\r\n### 1620 나는야 포켓몬 마스터\r\n\r\n```\r\n0607_solved_ac.py - 세 가지 방법으로 품\r\n```\r\n\r\n---\r\n\r\n### 1676 팩토리얼 0의 개수\r\n\r\n```\r\n0608_solved_ac.py - 두 가지 방법\r\n```\r\n\r\n---\r\n\r\n### 1697 숨바꼭질\r\n\r\n```\r\n0608_solved_ac.py - bfs, dfs 시도\r\n```\r\n\r\n---\r\n\r\n### 1764 듣보잡\r\n\r\n```\r\n0608_solved_ac.py - 두 가지 방법 \r\n```\r\n\r\n---\r\n\r\n### 1780 종이의 개수\r\n\r\n```\r\n0609_solved_ac.py - 풀지 못함\r\n```\r\n\r\n---\r\n\r\n### 1927 최소 힙\r\n\r\n```\r\n0609_solved_ac.py - 풀지 못함\r\n```\r\n\r\n---\r\n\r\n### 1931 회의실 배정\r\n\r\n```\r\n0609_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 1992 쿼드트리\r\n\r\n```\r\n1780과 비슷한 문제\r\n```\r\n\r\n---\r\n\r\n### 2178 미로 탐색\r\n\r\n```\r\n0609_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 2579 계단 오르기\r\n\r\n```\r\n0610_solved_ac.py - 다시\r\n```\r\n\r\n---\r\n\r\n### 2606 바이러스\r\n\r\n```\r\n0610_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 2630 색종이 만들기\r\n\r\n```\r\n1780과 비슷한 문제\r\n```\r\n\r\n---\r\n\r\n### 2667 단지번호 붙이기\r\n\r\n```\r\n0610_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 5430 AC\r\n\r\n```\r\n0611_solved_ac.py - 세 가지 방법으로 품\r\n```\r\n\r\n---\r\n\r\n### 5525 IOIOI\r\n\r\n```\r\n0611_solved_ac.py - 100점 나왔지만 시간 줄일 수 있는 방법 있는지 알아보기 (슬라이딩 윈도 방법 다시 찾아보기)\r\n```\r\n\r\n---\r\n\r\n### 6064 카잉달력\r\n\r\n```\r\n0612_solved_ac.py - 시간 초과\r\n```\r\n\r\n---\r\n\r\n### 7569 토마토\r\n\r\n```\r\n0612_solved_ac.py - 시간 초과 또는 틀림\r\n```\r\n\r\n---\r\n\r\n### 7576 토마토\r\n\r\n```\r\n0612_solved_ac.py - 성공했지만, 메모리 시간 줄일 수 있는지 다른 방법 시도\r\n```\r\n\r\n---\r\n\r\n### 7662 이중 우선순위 큐\r\n\r\n```\r\n0612_solved_ac.py - 시간 초과 또는 틀림\r\n```\r\n\r\n---\r\n\r\n### 9019 DSLR\r\n\r\n```\r\n0613_solved_ac.py - 다시\r\n```\r\n\r\n---\r\n\r\n### 9095 1, 2, 3 더하기\r\n\r\n```\r\n0613_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 9375 패션왕 신해빈\r\n\r\n```\r\n0614_solved_ac.py - 시간 초과\r\n```\r\n\r\n---\r\n\r\n### 9461 파도반 수열\r\n\r\n```\r\n0614_solved_ac.py - 다시\r\n```\r\n\r\n---\r\n\r\n### 11047 동전 0\r\n\r\n```\r\n0614_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 11279 최대 힙\r\n\r\n```\r\n0615_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 11286 절댓값 힙\r\n\r\n```\r\n0616_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 11399 ATM\r\n\r\n```\r\n0616_solved_ac.py - heap, sort 이용\r\n```\r\n\r\n---\r\n\r\n### 11403 경로 찾기\r\n\r\n```\r\n0616_solved_ac.py\r\n```\r\n\r\n---\r\n\r\n### 11659 구간 합 구하기 4\r\n\r\n```\r\n0616_solved_ac.py - 시간 초과\r\n```\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n### 못 푼 문제\r\n\r\n```\r\n1107 리모컨 / 1389 케빈 베이컨의 6단계 법칙 / 1541 잃어버린 괄호 / 1780 종이의 개수 / 1992 쿼드트리 / 2579 계단 오르기 / 2630 색종이 만들기 / 9019 DSLR / 9375 패션왕 신해빈 / 9461 파도반 수열 / 11659 구간 합 구하기 4\r\n```\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/solved ac/나원경/class 3/Solved ac Class 3.md b/solved ac/나원경/class 3/Solved ac Class 3.md
+--- a/solved ac/나원경/class 3/Solved ac Class 3.md	
++++ b/solved ac/나원경/class 3/Solved ac Class 3.md	
+@@ -295,7 +295,9 @@
+ 0616_solved_ac.py - 시간 초과
+ ```
+ 
++---
+ 
++### 11723 집합
+ 
+ 
+ 
+Index: solved ac/나원경/class 3/0617_solved_ac.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/solved ac/나원경/class 3/0617_solved_ac.py b/solved ac/나원경/class 3/0617_solved_ac.py
+new file mode 100644
+--- /dev/null	
++++ b/solved ac/나원경/class 3/0617_solved_ac.py	
+@@ -0,0 +1,71 @@
++#11723 집합
++# import sys
++# M = int(input())
++# numbers = set()
++# new_input = sys.stdin.readline
++# all_numbers = set(map(str,range(1,21)))
++# for _ in range(M):
++#     command = new_input().rstrip()
++#     if command == 'all':
++#         numbers.update(all_numbers)
++#     elif command == 'empty':
++#         numbers.clear()
++#     else:
++#         command = command.split()
++#         if command[0] == 'add':
++#             numbers.add(command[1])
++#         else:
++#             answer = 1 if command[1] in numbers else 0
++#             if command[0] == 'check':
++#                 print(answer)
++#             elif answer:
++#                 numbers.remove(command[1])
++#             elif command[0] == 'toggle':
++#                 numbers.add(command[1])
++
++# answer = command[1] in numbers이든 if else 있든 시간은 비슷 (if else 없는 것이 약간 더 시간 걸림)
++# import sys
++# M = int(input())
++# numbers = set()
++# new_input = sys.stdin.readline
++# all_numbers = set(map(str,range(1,21)))
++# for _ in range(M):
++#     command = new_input().rstrip()
++#     if command == 'all':
++#         numbers.update(all_numbers)
++#     elif command == 'empty':
++#         numbers.clear()
++#     else:
++#         command = command.split()
++#         answer = command[1] in numbers
++#         if command[0] == 'check':
++#             print(int(answer))
++#         elif answer:
++#             numbers.remove(command[1])
++#         elif command[0] in {'toggle', 'add'}:
++#             numbers.add(command[1])
++
++
++#DAT 이용 - 시간 더 걸림
++# import sys
++# M = int(input())
++# numbers = [0] * 21
++# new_input = sys.stdin.readline
++# all_numbers = [1] * 21
++# empty = numbers[:]
++# for _ in range(M):
++#     command = new_input().rstrip()
++#     if command == 'all':
++#         numbers = all_numbers[:]
++#     elif command == 'empty':
++#         numbers = empty[:]
++#     else:
++#         command = command.split()
++#         command[1] = int(command[1])
++#         answer = 1 if numbers[command[1]] else 0
++#         if command[0] == 'check':
++#             print(answer)
++#         elif answer:
++#             numbers[command[1]] = 0
++#         elif command[0] in {'toggle', 'add'}:
++#             numbers[command[1]] = 1
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"628fe851-44c5-47cc-97b9-45291e2fd3be\" name=\"Default Changelist\" comment=\"0612 wk\">\r\n      <change afterPath=\"$PROJECT_DIR$/solved ac/나원경/0613_study_djikstra.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/solved ac/나원경/class 3/0613_solved_ac.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"28XYXt5NKExnEGzV1WfYv0rkUCj\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.0613_solved_ac\">\r\n    <configuration name=\"0610_solved ac\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Team_hard\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/solved ac/나원경/class 3\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/solved ac/나원경/class 3/0610_solved ac.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"0611_solved_ac\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Team_hard\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/solved ac/나원경/class 3\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/solved ac/나원경/class 3/0611_solved_ac.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"0612_solved_ac\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Team_hard\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/solved ac/나원경/class 3\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/solved ac/나원경/class 3/0612_solved_ac.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"0613_solved_ac\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Team_hard\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/solved ac/나원경/class 3\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/solved ac/나원경/class 3/0613_solved_ac.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"0613_study_djikstra\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Team_hard\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/solved ac/나원경\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/solved ac/나원경/0613_study_djikstra.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.0613_solved_ac\" />\r\n        <item itemvalue=\"Python.0613_study_djikstra\" />\r\n        <item itemvalue=\"Python.0612_solved_ac\" />\r\n        <item itemvalue=\"Python.0611_solved_ac\" />\r\n        <item itemvalue=\"Python.0610_solved ac\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"628fe851-44c5-47cc-97b9-45291e2fd3be\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1651364440625</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1651364440625</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"0530\">\r\n      <created>1653915766496</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653915766496</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"0531\">\r\n      <created>1653971452360</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1653971452361</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"0601\">\r\n      <created>1654070985972</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654070985972</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"0602\">\r\n      <created>1654148601551</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654148601551</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"0602\">\r\n      <created>1654150864908</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654150864908</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"0603\">\r\n      <created>1654247266383</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654247266383</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"0604\">\r\n      <created>1654310896724</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654310896724</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"0605\">\r\n      <created>1654402688516</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654402688516</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"0606 wk\">\r\n      <created>1654500546480</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654500546480</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"0607 wk\">\r\n      <created>1654566043986</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654566043986</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"0607 wk\">\r\n      <created>1654566553806</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654566553806</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"0607 wk\">\r\n      <created>1654567102659</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654567102659</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"0608 wk\">\r\n      <created>1654648065419</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654648065419</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"0609 wk\">\r\n      <created>1654750461515</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654750461515</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"0610 wk\">\r\n      <created>1654829464946</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654829464947</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"0611 wk\">\r\n      <created>1654939523381</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1654939523381</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"0612 wk\">\r\n      <created>1655025820686</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655025820686</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"18\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"0530\" />\r\n    <MESSAGE value=\"0531\" />\r\n    <MESSAGE value=\"0601\" />\r\n    <MESSAGE value=\"0602\" />\r\n    <MESSAGE value=\"0603\" />\r\n    <MESSAGE value=\"0604\" />\r\n    <MESSAGE value=\"0605\" />\r\n    <MESSAGE value=\"0606 wk\" />\r\n    <MESSAGE value=\"0607 wk\" />\r\n    <MESSAGE value=\"0608 wk\" />\r\n    <MESSAGE value=\"0609 wk\" />\r\n    <MESSAGE value=\"0610 wk\" />\r\n    <MESSAGE value=\"0611 wk\" />\r\n    <MESSAGE value=\"0612 wk\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"0612 wk\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/0603_test.py</url>\r\n          <line>9</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n      <default-breakpoints>\r\n        <breakpoint type=\"python-exception\">\r\n          <properties notifyOnTerminate=\"true\" exception=\"BaseException\">\r\n            <option name=\"notifyOnTerminate\" value=\"true\" />\r\n          </properties>\r\n        </breakpoint>\r\n      </default-breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,10 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="0612 wk">
+-      <change afterPath="$PROJECT_DIR$/solved ac/나원경/0613_study_djikstra.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/solved ac/나원경/class 3/0613_solved_ac.py" afterDir="false" />
++    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="0616 wk">
++      <change afterPath="$PROJECT_DIR$/solved ac/나원경/class 3/0617_solved_ac.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/solved ac/0615_study_priority_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/solved ac/나원경/0615_study_priority_queue.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/Solved ac Class 3.md" beforeDir="false" afterPath="$PROJECT_DIR$/solved ac/나원경/class 3/Solved ac Class 3.md" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -40,8 +41,13 @@
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+   </component>
+-  <component name="RunManager" selected="Python.0613_solved_ac">
+-    <configuration name="0610_solved ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\pubha\Documents\GitHub\Team_hard\solved ac\나원경" />
++    </key>
++  </component>
++  <component name="RunManager" selected="Python.0617_solved_ac">
++    <configuration name="0614_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="Team_hard" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -53,7 +59,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/class 3/0610_solved ac.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/class 3/0614_solved_ac.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -62,7 +68,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="0611_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="0615_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="Team_hard" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -74,7 +80,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/class 3/0611_solved_ac.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/class 3/0615_solved_ac.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -83,7 +89,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="0612_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="0615_study_priority_queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="Team_hard" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -91,11 +97,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solved ac/나원경/class 3" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solved ac" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/class 3/0612_solved_ac.py" />
++      <option name="SCRIPT_NAME" value="C:\Users\pubha\Documents\GitHub\Team_hard\solved ac\나원경\0615_study_priority_queue.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -104,7 +110,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="0613_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="0616_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="Team_hard" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -116,7 +122,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/class 3/0613_solved_ac.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/class 3/0616_solved_ac.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -125,7 +131,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="0613_study_djikstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="0617_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="Team_hard" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -133,11 +139,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solved ac/나원경" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solved ac/나원경/class 3" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/0613_study_djikstra.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/class 3/0617_solved_ac.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -148,11 +154,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Python.0613_solved_ac" />
+-        <item itemvalue="Python.0613_study_djikstra" />
+-        <item itemvalue="Python.0612_solved_ac" />
+-        <item itemvalue="Python.0611_solved_ac" />
+-        <item itemvalue="Python.0610_solved ac" />
++        <item itemvalue="Python.0617_solved_ac" />
++        <item itemvalue="Python.0616_solved_ac" />
++        <item itemvalue="Python.0615_study_priority_queue" />
++        <item itemvalue="Python.0615_solved_ac" />
++        <item itemvalue="Python.0614_solved_ac" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -284,7 +290,35 @@
+       <option name="project" value="LOCAL" />
+       <updated>1655025820686</updated>
+     </task>
+-    <option name="localTasksCounter" value="18" />
++    <task id="LOCAL-00018" summary="0613 wk">
++      <created>1655125476081</created>
++      <option name="number" value="00018" />
++      <option name="presentableId" value="LOCAL-00018" />
++      <option name="project" value="LOCAL" />
++      <updated>1655125476081</updated>
++    </task>
++    <task id="LOCAL-00019" summary="0614 wk">
++      <created>1655216377737</created>
++      <option name="number" value="00019" />
++      <option name="presentableId" value="LOCAL-00019" />
++      <option name="project" value="LOCAL" />
++      <updated>1655216377737</updated>
++    </task>
++    <task id="LOCAL-00020" summary="0615 wk">
++      <created>1655295013759</created>
++      <option name="number" value="00020" />
++      <option name="presentableId" value="LOCAL-00020" />
++      <option name="project" value="LOCAL" />
++      <updated>1655295013759</updated>
++    </task>
++    <task id="LOCAL-00021" summary="0616 wk">
++      <created>1655386069899</created>
++      <option name="number" value="00021" />
++      <option name="presentableId" value="LOCAL-00021" />
++      <option name="project" value="LOCAL" />
++      <updated>1655386069899</updated>
++    </task>
++    <option name="localTasksCounter" value="22" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -314,7 +348,11 @@
+     <MESSAGE value="0610 wk" />
+     <MESSAGE value="0611 wk" />
+     <MESSAGE value="0612 wk" />
+-    <option name="LAST_COMMIT_MESSAGE" value="0612 wk" />
++    <MESSAGE value="0613 wk" />
++    <MESSAGE value="0614 wk" />
++    <MESSAGE value="0615 wk" />
++    <MESSAGE value="0616 wk" />
++    <option name="LAST_COMMIT_MESSAGE" value="0616 wk" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
