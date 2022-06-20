@@ -101,6 +101,7 @@
 
 ```
 0609_solved_ac.py - 풀지 못함
+0620_solved_ac.py
 ```
 
 ---
@@ -109,6 +110,7 @@
 
 ```
 0609_solved_ac.py - 풀지 못함
+0620_solved_ac.py
 ```
 
 ---
