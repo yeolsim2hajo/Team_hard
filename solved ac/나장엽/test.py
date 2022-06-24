@@ -1,2 +1,6 @@
-for i in (4, 5, 10):
-    print(i)
+
+
+from collections import deque
+que = deque([1,1])
+v = que.popleft()
+print(v)
