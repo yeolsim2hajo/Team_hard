@@ -1,15 +1,15 @@
 #16162 가희와 3단 고음
-# N, A, D = map(int,input().split())
-# scale = list(map(int,input().split()))
-# now = A
-# cnt = idx = 0
-# while idx < N:
-#     if now == scale[idx]:
-#         now += D
-#         cnt += 1
-#     idx += 1
-#
-# print(cnt)
+N, A, D = map(int,input().split())
+scale = list(map(int,input().split()))
+now = A
+cnt = idx = 0
+while idx < N:
+    if now == scale[idx]:
+        now += D
+        cnt += 1
+    idx += 1
+
+print(cnt)
 
 
 #17142 연구소3 -82까지 가고 틀림
