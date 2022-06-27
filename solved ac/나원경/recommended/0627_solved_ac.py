@@ -81,3 +81,35 @@
 #         path.pop()
 # dfs()
 # print(max_val)
+
+
+#17069 파이프 옮기기2 - 못 품
+# N = int(input())
+# house = [input().split() for _ in range(N)]
+# def bfs():
+#     global house
+#     cnt = 0
+#     q = [(0,1,0)]
+#     visited = [[False] * N for _ in range(N)]
+#     position = [[(0,1),(1,1)], [(1,0),(1,1)], [(0,1),(1,0),(1,1)]]
+#     while q:
+#         y,x,direction = q.pop(0)
+#         if y == x == N-1:
+#             cnt += 1
+#             continue
+#         for dy,dx in position[direction]:
+#             ny, nx = y+dy, x+dx
+#             if ny < N and nx < N and house[ny][nx] == '0' and visited[ny][nx] is False:
+#                 if dy == dx == 1:
+#                     if x < N-1 and y < N-1 and house[y][x+1] == house[y+1][x] == '0':
+#                         visited[ny][nx] = True
+#                         q.append((ny,nx,2))
+#                 elif dy == 0:
+#                     visited[ny][nx] = True
+#                     q.append((ny,nx,0))
+#                 else:
+#                     visited[ny][nx] = True
+#                     q.append((ny,nx,1))
+#     return cnt
+#
+# print(bfs())
