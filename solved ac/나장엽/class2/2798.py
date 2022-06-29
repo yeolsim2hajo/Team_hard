@@ -34,14 +34,11 @@ input = sys.stdin.readline
 
 N, M = map(int, input().split())
 card_list = list(map(int, input().split()))
-
 Max = 0
-
 for cards in combinations(card_list, 3):
     temp_sum = sum(cards)
     if Max < temp_sum <= M:
         Max = temp_sum
-
 print(Max)
 
 # 시간 104ms

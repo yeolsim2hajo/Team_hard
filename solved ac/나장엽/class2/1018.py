@@ -18,14 +18,14 @@ for i in range(N-7):
         for a in range(i, i+8):
             for b in range(k, k+8):
                 if (a+b) % 2 == 0 :
-                    if arr[a][b] != 'W':
-                        count1 += 1
+                    if arr[a][b] != 'W': # w가 아닐때
+                        count1 += 1 # w로 칠해주는 갯수 카운트
                     else:
-                        count2 += 1
-                else:
-                    if arr[a][b] != 'B':
-                        count1 += 1
-                    else:
+                        count2 += 1 # b가 아니면 b로 칠해주는 개수
+                else: 
+                    if arr[a][b] != 'B': # b가 아닐때 
+                        count1 += 1 # b로 칠해주는 개수
+                    else: # w가 아니면 w로 칠해주는 개수
                         count2 += 1
 
         answer.append(count1)

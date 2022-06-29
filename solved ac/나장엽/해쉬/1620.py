@@ -22,3 +22,4 @@ for _ in range(m):
 
     else:
         print(pok_index[problem])
+

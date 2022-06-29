@@ -1,5 +1,5 @@
-import sys
-input = sys.stdin.readline
+# import sys
+# input = sys.stdin.readline
 
 # def func(start, end):
 #     answer = 0
@@ -11,7 +11,7 @@ input = sys.stdin.readline
 #         if (Sum == N):
 #             answer = i
 #             return answer
-
+# # start 가 음수가 되는 경우에 '-' 문자를 int 로 캐스팅할 수 없어서 해당 오류가 발생합니다.
 
 # N = int(input())
 # length = len(str(N)) 
@@ -21,14 +21,14 @@ input = sys.stdin.readline
 
 
 # # boj, 2231 : 분해합, python3
-# N = int(input())
-# result = 0
+N = int(input())
+result = 0
 
-# for i in range(1, N+1):        
-#     a = list(map(int, str(i)))  
-#     s = i + sum(a)              
-#     if(s == N):                 
-#         result = i                   
-#         break
+for i in range(1, N+1):        
+    a = list(map(int, str(i)))  
+    s = i + sum(a)              
+    if(s == N):                 
+        result = i                   
+        break
 
-# print(result)
+print(result)

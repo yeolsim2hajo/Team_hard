@@ -22,16 +22,16 @@ for i in range(N):
         stack.append(now) 
         now += 1  
         answer.append('+') # push -> +
+    print(stack)
     if stack[-1] == number : # 입력값과 같으면 Pop
         stack.pop()
         answer.append('-') # pop -> -
     
     else: # 불가능 시 !
-        find = False
-
+        find = False # 
 if not find:
     print('NO')
-else:
-    for i in answer:
-        print(i)
+# else:
+#     for i in answer:
+#         print(i)
         

@@ -8,3 +8,4 @@ while N != 0:
             break 
     first = first + 1 # 666이 문자열 안에 없으면 계속 증가.
 print(first)
+

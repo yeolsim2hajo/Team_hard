@@ -1,6 +1,8 @@
 import sys
 from collections import deque
 input = sys.stdin.readline
+
+
 N = int(input())
 numbers = deque()
 for number in range(1, N+1):

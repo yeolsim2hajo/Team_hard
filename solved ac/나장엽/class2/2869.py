@@ -12,5 +12,5 @@ A, B, V = map(int, input().split())
 #         break
 #     climing -= B
 
-day = (V- B) / (A - B)
-print(math.ceil(day)) # 올림 처리 5.1일은 6일 걸린것.
+day = (V - B) / (A - B)
+print(math.ceil(day)) # 올림 처리 5.1일은 6일 걸린것.\

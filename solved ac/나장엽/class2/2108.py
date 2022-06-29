@@ -7,15 +7,12 @@ N = int(input())
 numbers = []
 for i in range(N):
     numbers.append(int(input()))
-
-
 length = N
+
 Sum = sum(numbers)
+
 numbers.sort()
-
-
 numbers_maxcount = Counter(numbers).most_common()
-
 
 Max = max(numbers)
 Min = min(numbers)
@@ -27,7 +24,6 @@ if len(numbers_maxcount) > 1:
         print(numbers_maxcount[1][0])
     else:
         print(numbers_maxcount[0][0])
-
 else:
     print(numbers_maxcount[0][0])
 
