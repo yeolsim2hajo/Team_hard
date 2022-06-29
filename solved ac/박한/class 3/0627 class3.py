@@ -1,7 +1,9 @@
 # class 3++ 1927 최소 힙
 
+import sys
 import heapq
 
+input = sys.stdin.readline
 n = int(input())
 lst = []
 for _ in range(n):
