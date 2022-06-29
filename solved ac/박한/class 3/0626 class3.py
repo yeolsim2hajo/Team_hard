@@ -1,5 +1,9 @@
 # 백준 1764 듣보잡
 
+import sys
+
+input = sys.stdin.readline
+
 n, m = map(int, input().split())
 lst1 = [input() for _ in range(n)]
 lst2 = [input() for _ in range(m)]
