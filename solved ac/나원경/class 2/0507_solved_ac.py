@@ -72,44 +72,44 @@
 
 
 #1929 소수 구하기
-# M, N = map(int,input().split())
-# prime = set(range(2,N+1))
-# for i in range(2,N+1):
-#     if i in prime:
-#         for j in range(2*i,N+1,i):
-#             try:
-#                 prime.remove(j)
-#             except:
-#                 continue
-#         if i < M:
-#             prime.remove(i)
-# prime = sorted(prime)
-# for number in prime:
-#     print(number)
+M, N = map(int,input().split())
+prime = set(range(2,N+1))
+for i in range(2,N+1):
+    if i in prime:
+        for j in range(2*i,N+1,i):
+            try:
+                prime.remove(j)
+            except:
+                continue
+        if i < M:
+            prime.remove(i)
+prime = sorted(prime)
+for number in prime:
+    print(number)
 
 
 # 시간 더 적게 걸림
-# M, N = map(int,input().split())
-# prime = set(range(2,N+1))
-# for i in range(2,N+1):
-#     if i in prime:
-#         for j in range(2*i,N+1,i):
-#             if j in prime:
-#                 prime.remove(j)
-#         if i < M:
-#             prime.remove(i)
-# prime = sorted(prime) # 이거 안 쓰면 시간 더 오래 걸림 -  왜?
-# for number in prime:
-#     print(number)
+M, N = map(int,input().split())
+prime = set(range(2,N+1))
+for i in range(2,N+1):
+    if i in prime:
+        for j in range(2*i,N+1,i):
+            if j in prime:
+                prime.remove(j)
+        if i < M:
+            prime.remove(i)
+prime = sorted(prime) # 이거 안 쓰면 시간 더 오래 걸림 -  왜?
+for number in prime:
+    print(number)
 
 
 # 가장 빠름 - 메모리도 덜 차지
-# M, N = map(int,input().split())
-# prime = [True for _ in range(N+1)]
-# for i in range(2,N+1):
-#     if prime[i]:
-#         for j in range(2*i,N+1,i):
-#             if prime[j]:
-#                 prime[j] = False
-#         if i >= M:
-#             print(i)
+M, N = map(int,input().split())
+prime = [True for _ in range(N+1)]
+for i in range(2,N+1):
+    if prime[i]:
+        for j in range(2*i,N+1,i):
+            if prime[j]:
+                prime[j] = False
+        if i >= M:
+            print(i)
