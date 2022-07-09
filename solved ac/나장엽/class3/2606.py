@@ -2,6 +2,8 @@ computer = int(input()) # 컴퓨터의 대수
 connection = int(input()) # 네트워크 상에서 직접 연결되어 있는 컴퓨터 쌍의 수
 network = [[]*computer for _ in range(computer+1)] # 계산 편의를 위해 +1 증가시켜서 초기화
 
+
+# 네트워크 그리기
 for i in range(connection):
     n1, n2 = map(int, input().split())
     network[n1].append(n2)
