@@ -118,7 +118,7 @@
 # print(int(cnt%div))
 
 
-# Cup - B
+# Cup - B - 시간 초과
 # N = int(input())
 # A = list(map(int, input().split()))
 # def find_mex():
@@ -149,3 +149,62 @@
 # C = list(set(fill_lst(B)))
 # temp = C
 # print(find_mex())
+
+
+# 시간 초과
+# N = int(input())
+# A = set(map(int, input().split()))
+# def find_mex():
+#     global temp
+#     import heapq
+#     max_val = int(1e9)
+#     heapq.heapify(temp)
+#     min_number = heapq.heappop(temp)
+#     for i in range(max_val):
+#         if i < min_number:
+#             return i
+#         if temp:
+#             min_number = heapq.heappop(temp)
+#         else:
+#             return min_number + 1
+# def fill_set(old_set):
+#     global temp
+#     answer = set()
+#     temp = list(old_set)
+#     answer.add(find_mex())
+#     for i in range(N):
+#         temp = list(old_set)
+#         temp.pop(i)
+#         answer.add(find_mex())
+#     return answer
+#
+# B = fill_set(A)
+# C = fill_set(B)
+# temp = list(C)
+# print(find_mex())
+
+
+# 간소화 - 시간 초과
+# N = int(input())
+# A = set(map(int, input().split()))
+# def fill_set(old_set, option=0):
+#     global temp
+#     max_val = int(1e9)
+#     for i in range(max_val):
+#         if i not in old_set:
+#             mex = i
+#             break
+#     if option:
+#         return mex
+#
+#     answer = {mex}
+#     for i in range(N):
+#         temp = list(old_set)
+#         element = temp.pop(i)
+#         if element < mex:
+#             answer.add(element)
+#     return answer
+#
+# B = fill_set(A)
+# C = fill_set(B)
+# print(fill_set(C,1))
