@@ -29,7 +29,7 @@ def dfs(solve):
     for i in range(1, 6): # 5지 선다 이기때문에 1 ~ 5로 제한
         if solve > 1 and choice[solve - 1] == choice[solve - 2] == i: # 연속된 3개의 답은 같지 않게 선택함 # 2문제 이상 푼 경우 이전의 2 문제와 답이 같다면 continue
             continue
-        choice.append(i)# 답 선택 # choice[solve] = i
+        choice.append(i)# 답 선택 # 이것도 가능 choice[solve] = i
         dfs(solve+1) # 재귀
         choice.pop()# 초기화 # choice[solve] = 0
 
