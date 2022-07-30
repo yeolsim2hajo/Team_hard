@@ -11,4 +11,4 @@ else:
             if score[i] <= new:
                 res = i + 1
                 break
-        print(res)
+        print(res)#
