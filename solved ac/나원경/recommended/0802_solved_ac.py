@@ -46,16 +46,16 @@
 
 
 # 새 배열 만들지 않음
-import sys
-
-new_input = sys.stdin.readline
-N, M = map(int, input().split())
-numbers = [0] + list(map(int, input().split()))
-for i in range(2,N+1):
-    numbers[i] += numbers[i-1]
-for _ in range(M):
-    start, end = map(int, new_input().split())
-    print(numbers[end] - numbers[start-1])
+# import sys
+#
+# new_input = sys.stdin.readline
+# N, M = map(int, input().split())
+# numbers = [0] + list(map(int, input().split()))
+# for i in range(2,N+1):
+#     numbers[i] += numbers[i-1]
+# for _ in range(M):
+#     start, end = map(int, new_input().split())
+#     print(numbers[end] - numbers[start-1])
 
 
 import sys
@@ -67,5 +67,6 @@ for i in range(1,N):
     numbers[i] += numbers[i-1]
 for _ in range(M):
     start, end = map(int, new_input().split())
-    start = start-1 if start > 1 else start
+    start = start-2 if start > 1 else start-1
+    end = end-1 if end > 1 else end
     print(numbers[end] - numbers[start])
