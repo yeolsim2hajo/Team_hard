@@ -61,48 +61,6 @@ for _ in range (t):
         Sum += B[temp + index - 1]
     print(Sum)
 
-
-    
-
-
-
-from os import startfile
-import sys
-from tkinter import LEFT
-input = sys.stdin.readline
-T = int(input())
-for _ in range(T):
-    N, M = map(int, input().split())
-    A = list(map(int, input().split()))
-    B = sorted(list(map(int, input().split())))
-
-    C = [10**9] * N
-    for i in range(N):
-        start, end = 0, M-1
-        while start<=end:
-            mid = (start+end) //2
-            if A[i] > B[mid]:
-                tmp = C[i]
-                if abs(C[i]-A[i]) > abs(A[i]-B[mid]):
-                    C[i] = B[mid]
-                elif abs(C[i]-A[i]) == abs(A[i]-B[mid]):
-                    C[i] = min(C[i], B[mid])
-
-                start = mid+1
-            elif A[i] == B[mid]:
-                C[i] = B[mid]
-                break
-            else:
-                tmp = C[i]
-                if abs(C[i] - A[i]) > abs(A[i] - B[mid]):
-                    C[i] = B[mid]
-                elif abs(C[i] - A[i]) == abs(A[i] - B[mid]):
-                    C[i] = min(C[i], B[mid])
-                end = mid-1
-    print(sum(C))
-
-
-
 t = int(input())
 
 for _ in range(t):
