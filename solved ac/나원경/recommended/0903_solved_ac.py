@@ -310,3 +310,41 @@
 #         is_square_num(table[i][j])
 #         dfs(i,j,table[i][j])
 # print(max_num)
+
+
+# 함수 들어가기 전 if문 - 시간 더 걸림
+# from math import isqrt
+# N, M = map(int, input().split())
+# table = [input() for _ in range(N)]
+# max_num = -1
+# def is_square_num(num):
+#     global max_num
+#     num = int(num)
+#     root = isqrt(num)
+#     if root ** 2 == num:
+#         max_num = num
+#
+# def dfs(row, col, number ,level=0, row_dif=0, col_dif=0):
+#     if level == 0:
+#         for k in range(N):
+#             for l in range(M):
+#                 if k != row or l != col:
+#                     new_num = number+table[k][l]
+#                     if int(new_num) > max_num:
+#                         is_square_num(new_num)
+#                     dfs(k, l, new_num, level+1, k-row, l-col)
+#     else:
+#         new_row, new_col = row+row_dif, col+col_dif
+#         if 0 <= new_row < N and 0 <= new_col < M:
+#             new_num = number + table[new_row][new_col]
+#             if int(new_num) > max_num:
+#                 is_square_num(new_num)
+#             dfs(new_row, new_col, new_num, level, row_dif, col_dif)
+#
+# for i in range(N):
+#     for j in range(M):
+#         table_num = table[i][j]
+#         if int(table_num) > max_num:
+#             is_square_num(table_num)
+#         dfs(i,j,table_num)
+# print(max_num)
