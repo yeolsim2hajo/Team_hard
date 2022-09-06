@@ -29,20 +29,17 @@
 
 
 # DP
-
 import sys
 input = sys.stdin.readline
 
 def func():
-    for day in range(N - 1, -1, -1):
-        t = data[day][0]
-        if day + t <= N:
-            p = data[day][1]
-            memo[day] = max(memo[day + 1], memo[day + t] + p)
-
-        else:
+    for day in range(N - 1, -1, -1): # reverse search
+        t = data[day][0] # cost
+        if day + t <= N: 
+            p = data[day][1] # profit
+            memo[day] = max(memo[day + 1], memo[day + t] + p) # 최대이익 갱신, day + t 까지 근무한 경우의 이익과, i + 1 까지 근무한 경우의 이익 중 최댓값으로 갱신
+        else: # 해당일에 근무하지 않았을 경우, i + 1일까지 근무한 경우의 이익과 같음.
             memo[day] = memo[day + 1]
-
 
 N = int(input())
 data = [list(map(int, input().split())) for _ in range(N)]
