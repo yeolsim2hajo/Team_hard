@@ -13,5 +13,5 @@ T = int(input())
 
 for _ in range(T):
     n, m = map(int, input().split())
-    bridge = factorial(n) // (factorial(n) * factorial(m - n))
+    bridge = factorial(m) // (factorial(n) * factorial(m - n))
     print(bridge)
