@@ -14,15 +14,15 @@ memo = [[-1] * n for _ in range(n)]
 def dfs(x, y):
     global memo
 
-    if x == n - 1 and y == n - 1:
+    if x == n - 1 and y == n - 1: # 마지막 칸에 도착하면 1 return
         return 1
 
     if memo[x][y] == -1 :
         memo[x][y] = 0
-        if 0 <= x + graph[x][y] < n:
+        if 0 <= x + graph[x][y] < n: # 점프가 가능하면, 추가
             memo[x][y] += dfs(x + graph[x][y], y)
             
-        if 0 <= y + graph[x][y] < n:
+        if 0 <= y + graph[x][y] < n: # 점프가 가능하면, 추가
             memo[x][y] += dfs(x, y + graph[x][y])
 
     return memo[x][y]

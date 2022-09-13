@@ -7,7 +7,13 @@ word = []
 for _ in range(N):
     word.append(input())
 
-for i in range(N):
-    for k in range(1, N):
-        if len(word[i]) == len(word[k]) and word[i][::-1] == word[k]:
-            print(len(word[i]), word[i][int(len(word[i])/2)])
+length = 0
+alpha = ''
+
+for i in word:
+    if i[::-1] in word:
+        length = len(i)
+        alpha = i[length//2]
+        break
+    
+print(length, alpha)
