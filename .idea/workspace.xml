@@ -1,7 +1,789 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="0625 wk" />
+    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="0625 wk">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/.idea/나원경.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0308_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0315_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0317_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0318_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0319_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0320_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0321_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0322_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0324_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0325_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0326_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0327_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0328_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0329_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0330_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0331_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0401_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0402_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0403_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0404_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0405_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0406_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0407_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0408_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0409_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0410_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0411_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0412_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/0413_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inflearn/나원경/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0310_lv13_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0311_lv13_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0312_lv14_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0313_lv14_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0314_mincoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0315_lv15_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0316_lv15_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0326_inflearn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0414_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0415_min_lv34.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0416_min_lv34.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0417_min_lv35.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0418_min_lv35.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0419_min_lv44.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0420_min_lv44.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0421_min_lv45.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/나원경/0422_min_lv45.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0214 mincoding(16-16.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0215 mincoding(17-17.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0216 mincoding(18-18.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0217 mincoding(19-19.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0218 mincoding(2.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0219 mincoding(3)(1).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0220 mincoding(3)(2).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0221 mincoding(3.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0222 mincoding(20-21.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0223 mincoding(22-22.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0224 mincoding(4)(1).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0225 mincoding(4)(2).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0303 mincoding(4.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0304 mincoding(5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0305 mincoding(5.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0306 mincoding(6).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0306 mincoding(6.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0307 mincoding(7).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0308 mincoding(7.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0309 mincoding(8-8.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0309 mincoding(9-9.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0310 mincoding(10-10.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0311 mincoding(11).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0312 mincoding(11.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0313 mincoding(12-13.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0314 mincoding(14).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0314 mincoding(23-23.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0315 mincoding(14.5-15).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0316 mincoding(훈련반준비).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0317 mincoding(30).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0320 mincoding(30.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0321 mincoding(31).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0321 mincoding(심화반준비).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0322 mincoding(32).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0322 mincoding(36-38).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0323 mincoding(38-38.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0324 mincoding(41-43).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0329 mincoding(39).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0329 mincoding(43).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0404 mincoding(32).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0405 mincoding(32).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0406 mincoding(32.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0407 mincoding(32.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0409 mincoding(32.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/박한/0410 mincoding(32.5).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/4.5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/5.5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/6.5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/7.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/8.5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/1.시작반1/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/10.5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11-1-원경코드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/11.5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/12.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/13.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/14.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/15-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/9.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/2.시작반2/훈련반준비-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/16.5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/17.5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/18.5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/19.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/16.5~19.5/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20.5-8-2트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/20.5-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21-8-2트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21.5-3-2트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21.5-4-2트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/21.5-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22.5-1(재귀)-실패.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22.5-1-2트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/22.5-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23-4-2트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23.5-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23.5-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23.5-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23.5-5-2트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23.5-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/23.5-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/3.훈련반1/20~23.5/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/31-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/안희재/4.훈련반2/28-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/오서준/4.0~.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/오서준/level_19부터.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mincoding/오서준/민코딩.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/.idea/나원경.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0423_swea_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0424_swea_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0425_swea_greedy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0426_swea_greedy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0530_swea_babygin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0601_swea_live.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0602_swea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0603_swea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0608_swea_live.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0621_swea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/나원경/0829_swea_swimpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0218_self_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0219_lv4_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0220_lv4_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0221_lv5_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0222_lv6_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0223_lv6_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0224_lv6_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0227_lv7_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0301_lv8_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0302_lv9_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0303_lv9_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0304_lv9_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0305_lv10_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0306_lv10_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0307_lv11_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0308_lv12_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/0309_lv12_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincoding/나원경/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/framework 과목 평가 대비/나원경/framework_평가_대비_나원경.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/framework 과목 평가 대비/나원경/framework_평가_대비_문제_나원경.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/framework 과목 평가 대비/나원경/no_5_forgotten.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/framework 과목 평가 대비/나원경/no_7_where.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/framework 과목 평가 대비/나원경/no_8_music.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/framework 과목 평가 대비/나원경/no_9_Error.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/framework 과목 평가 대비/나장엽/Django_0321_문제_나원경_품.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/framework 과목 평가 대비/박한/0321_과목평가_대비_나원경 품.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/framework 과목 평가 대비/안희재/과목평가_대비_Django_나원경_품.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/.ipynb_checkpoints/0204_과목평가_대비_나원경_문제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/.ipynb_checkpoints/0214_과목대비_Web_문제_나원경_정답지-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/0204 대비/.ipynb_checkpoints/0204_과목평가_대비_나원경_문제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/0204 대비/0204_과목평가_대비_나원경_해설.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/0204 대비/Distress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/0204 대비/gwangju_3ban.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/0204 대비/과목평가_원경님문제_안희재_품.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/0214_과목대비_Web_문제_나원경.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/0214_과목대비_Web_문제_나원경_정답지.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/bootstrap_jo_won.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/card_jo_won.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/container_1-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/container_4-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/number1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/unbelievable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/yeol_jeong.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/yeol_jeong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/yeol_jeong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/yeol_sim_2_ha_jo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나원경/웹엑스_찢.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나장엽/.ipynb_checkpoints/0214_장엽님_문제_나원경_품-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나장엽/.ipynb_checkpoints/나원경_문제_품-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나장엽/.ipynb_checkpoints/문제-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나장엽/0214_과목평가대비_나장엽_개념문제.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나장엽/0214_장엽님_문제_나원경_품.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나장엽/과목평가_장엽님문제_안희재_품.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/나장엽/나원경_문제_품.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/박한/(최종) 파이썬 과목평가 연습문제.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/박한/.ipynb_checkpoints/0213_한님_문제_나원경_품-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/박한/.ipynb_checkpoints/과목평가_박한님_문제_나원경_품-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/박한/0213_한님_문제_나원경_품.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/박한/과목평가_박한님_문제_나원경_품.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/박한/과목평가_박한님_문제_안희재_품.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/박한/웹 과목평가 연습문제 정답(박한).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/박한/웹 과목평가 연습문제(박한).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/박한/파이썬 과목평가 연습문제(박한).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/안희재/.ipynb_checkpoints/희재님_문제_나원경_품-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/안희재/과목평가 대비 문제 - 안희재.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/안희재/안희재 과목평가 문제 답.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/안희재/희재님_문제_나원경_품.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/오서준/.ipynb_checkpoints/오서준님_문제_나원경_품-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/오서준/과목평가_서준님_문제_안희재_품.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/오서준/미니 테스트.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/오서준/미니 테스트_정답.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/오서준/오서준님_문제_나원경_품.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/과목평가_대비/오서준/오서준님_문제_박한_품.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/.ipynb_checkpoints/02.13미니테스트-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/.ipynb_checkpoints/0213_서준님_문제_나원경_품-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/.ipynb_checkpoints/0213_희재님_문제_나원경_품-checkpoint.13_희재님_문제_원경_품" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/.ipynb_checkpoints/0213_희재님_문제_나원경_품-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/02.13미니테스트.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/0213_서준님_문제_나원경_품.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/0213_희재님_문제_나원경_품.13_희재님_문제_원경_품" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/0213_희재님_문제_나원경_품.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/미니테스트_정답.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/웹 과목 평가 대비(2.14)/웹 과목평가 대비(답지포함).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/.idea/나원경.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0613_study_djikstra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0620_study_floyd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0621_solved_ac_오답.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0622_study_hash_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0627_study_sliding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0914_programmers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0915_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0916_programmers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0917_programmers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0918_programmers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/0918_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/.idea/class 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/0427_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/0428_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/0429_solved ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/0430_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/0501_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/0502_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/0503_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/0504_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 1/solved ac class 1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/class 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/shelf/Uncommitted_changes_before_Update_at_2022-05-23__7_01__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/shelf/Uncommitted_changes_before_Update_at_2022-05-23_오후_7_01_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/shelf/Uncommitted_changes_before_Update_at_2022-05-25__12_01__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/shelf/Uncommitted_changes_before_Update_at_2022-05-25_오전_12_01_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/shelf/Uncommitted_changes_before_Update_at_2022-05-26__10_59__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/shelf/Uncommitted_changes_before_Update_at_2022-05-26_오후_10_59_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/shelf/Uncommitted_changes_before_Update_at_2022-05-28__11_03__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/shelf/Uncommitted_changes_before_Update_at_2022-05-28_오후_11_03_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/shelf/Uncommitted_changes_before_Update_at_2022-05-29__9_20__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/shelf/Uncommitted_changes_before_Update_at_2022-05-29_오후_9_20_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0505_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0506_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0507_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0508_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0509_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0510_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0511_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0512_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0513_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0514_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0515_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0516_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0517_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0518_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0519_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0520_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0521_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0522_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0523_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0524_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0525_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0526_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0528_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0529_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0530_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0531_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0601_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0602_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0603_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0604_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/0621_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 2/solved ac class 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/.idea/class 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0605_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0606_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0607_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0608_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0609_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0610_solved ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0611_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0612_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0613_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0614_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0615_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0616_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0617_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0618_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0619_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0620_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0622_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0623_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/0624_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/class 3/Solved ac Class 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/programmers_lv1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0625_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0626_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0627_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0628_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0629_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0630_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0701_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0702_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0703_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0704_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0705_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0706_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0707_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0708_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0709_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0710_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0711_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0712_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0713_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0714_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0715_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0716_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0718_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0719_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0720_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0721_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0722_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0723_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0724_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0725_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0726_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0727_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0728_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0729_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0730_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0731_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0801_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0802_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0803_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0804_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0805_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0806_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0808_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0810_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0811_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0812_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0813_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0814_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0815_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0816_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0818_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0820_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0821_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0822_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0823_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0824_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0825_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0826_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0827_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0828_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0830_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0831_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0901_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0902_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0903_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0904_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0905_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0906_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0907_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0908_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0910_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0911_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/0912_solved_ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solved ac/나원경/recommended/README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
