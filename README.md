@@ -1,10 +1,10 @@
-# 🎇알고리즘 스터디🎇
+# :man_student: 알고리즘 스터디:woman_student:
 
-### ✔️ 스터디원
+### :information_desk_person: 스터디원
 <table>
   <tr>
-   <td align="center"><a href="https://github.com/bbookng"><img src="https://avatars.githubusercontent.com/u/109321163?v=4" width="100px;" alt=""/>
-   <br /><sub><b>bbookng</b><br></sub></a></td>
+   <td align="center"><a href="https://github.com/hitriee"><img src="" width="100px;" alt=""/>
+   <br /><sub><b>hitriee</b><br></sub></a></td>
    <td align="center"><a href="https://github.com/nimusmix"><img src="https://avatars.githubusercontent.com/u/109320569?s=400" width="100px;" alt=""/>
    <br /><sub><b>nimusmix</b><br></sub></a></td>
    <td align="center"><a href="https://github.com/heisje"><img src="https://avatars.githubusercontent.com/u/109322450?v=4" width="100px;" alt=""/>
@@ -14,27 +14,33 @@
   </tr>
 </table>
 
+
 ### ✔️ 목표: 개발자 취업!
 
-### ✔️ 시간: 일요일 10 PM (조정 가능)
+### ✔️ 시간: 일요일 10 AM (조정 가능)
 
 ### ✔️ SSAFY 제공 Webex로 진행
 
-### ✔️ commit 규칙
-* commit 메세지: [문제 사이트(플랫폼)]_문제번호(또는 문제이름)
-  [BOJ] - 백준  
-  [PGR] - 프로그래머스
-  [SWE] - SWEA
-  [ETC] - 기타
+### :triangular_ruler: commit 규칙
+```
+commit 메세지: [문제 사이트(플랫폼)]_문제번호(또는 문제이름)
+
+[BOJ] - 백준  
+[PGR] - 프로그래머스
+[SWE] - SWEA
+[ETC] - 기타
+```
+
+### ✔️ 진행방식
+
+```
+1. 전 주에 정해놓은 문제들 미리 풀어오고 코드 리뷰 🌱
+2. 스터디 시간 중 문제풀이 (모의 코딩테스트)
+```
 
 
-### ✔️ 진행방식:
-1. 이전 주에 정해놓은 문제들 미리 풀어오기 🌱
-2. 스터디 시간 중 문제풀이 진행
-3. 함께 코드 리뷰
 
-
-## 🎇스터디 진행상황🎇
+## :rocket: 이번 달 문제들 :sweat_drops:
 
 ### ✅0919
 
