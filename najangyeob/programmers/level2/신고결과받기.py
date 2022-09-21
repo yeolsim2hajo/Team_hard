@@ -1,8 +1,6 @@
 # 각 유저별로 처리결과 메일을 받은 횟수를 배열에 담아 return
 # k번 이상 신고당한 경우, 해당 유저를 신고한 유저에게 이메일 발송
-# k번 이상 신고당한 유저는 정지 사실을 메일 
-id_list = ["muzi", "frodo", "apeach", "neo"]
-report = ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"]
+# k번 이상 신고당한 유저는 정지 사실을 메일
 
 def solution(id_list, report, k): # 이용자 id, 신고내역, 정지기준 횟수
     check = [0] * len(id_list)
@@ -23,4 +21,3 @@ def solution(id_list, report, k): # 이용자 id, 신고내역, 정지기준 횟
     # print(check) # [2, 1, 1, 0]
     return check
 
-print(solution(id_list, report, 2))
