@@ -1,4 +1,4 @@
-#2010 플러그
+#220918
 N = int(input())
 def find_total(limit):
     import sys
