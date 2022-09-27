@@ -116,6 +116,38 @@
 
 
 #220927
+# def solution(n, k):
+#     from math import isqrt
+#     def convert(num, div):
+#         number = ''
+#         while num > 0:
+#             number = str(num % div) + number
+#             num //= div
+#         return number
+#
+#     def is_prime(num):
+#         nonlocal answer
+#         if num > '1':
+#             num = int(num)
+#             limit = isqrt(num)
+#             for i in range(2, limit + 1):
+#                 if num % i == 0:
+#                     return
+#             answer += 1
+#
+#     answer = 0
+#     converted_num = convert(n, k)
+#     target = ''
+#     for num in converted_num:
+#         if num != '0':
+#             target += str(num)
+#         else:
+#             is_prime(target)
+#             target = ''
+#     is_prime(target)
+#     return answer
+
+# split 사용
 def solution(n, k):
     from math import isqrt
     def convert(num, div):
@@ -136,13 +168,8 @@ def solution(n, k):
             answer += 1
 
     answer = 0
-    converted_num = convert(n, k)
-    target = ''
+    converted_num = convert(n, k).split('0')
     for num in converted_num:
-        if num != '0':
-            target += str(num)
-        else:
-            is_prime(target)
-            target = ''
-    is_prime(target)
+        if num != '':
+            is_prime(num)
     return answer
