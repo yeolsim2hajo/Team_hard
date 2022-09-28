@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="0625 wk">
-      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/2061_좋은_암호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Team_hard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Team_hard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0531_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0603_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_random.py" beforeDir="false" />
-    </list>
+    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="0625 wk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
