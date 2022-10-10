@@ -361,3 +361,9 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,pycharm,visualstudiocode,python
+najangyeob/.idea/misc.xml
+najangyeob/.idea/workspace.xml
+najangyeob/.idea/vcs.xml
+najangyeob/.idea/najangyeob.iml
+najangyeob/.idea/modules.xml
+najangyeob/.idea/inspectionProfiles/profiles_settings.xml
