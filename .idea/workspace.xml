@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="0625 wk" />
+    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="[BOJ] 1225_이상한_곱셈">
+      <change afterPath="$PROJECT_DIR$/wonkyoung/programmers/programmers_조이스틱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/Bronze II/9046_복호화.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/Silver I/6118_숨바꼭질.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/Silver IV/1015_수열_정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/Silver IV/20436_ZOAC_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/Silver V/1094_막대기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/recommended/Bronze I/1259_팰린드롬수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/recommended/Bronze I/15721_번데기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,8 +52,8 @@
       <recent name="C:\Users\pubha\Documents\GitHub\Team_hard\solved ac\나원경" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2061_좋은_암호">
-    <configuration name="0622_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1225_이상한_곱셈">
+    <configuration name="1225_이상한_곱셈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Team_hard" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solved ac/나원경/class 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wonkyoung/solved ac/Bronze II" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/class 3/0622_solved_ac.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wonkyoung/solved ac/Bronze II/1225_이상한_곱셈.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0623_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20436_ZOAC_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Team_hard" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,53 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solved ac/나원경/class 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wonkyoung/solved ac/Silver IV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/class 3/0623_solved_ac.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="0624_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Team_hard" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solved ac/나원경/class 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\pubha\Documents\GitHub\Team_hard\solved ac\나원경\recommended\0624_solved_ac.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="0625_solved_ac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Team_hard" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solved ac/나원경/recommended" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solved ac/나원경/recommended/0625_solved_ac.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wonkyoung/solved ac/Silver IV/20436_ZOAC_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,13 +116,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2476_주사위_게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Team_hard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wonkyoung/solved ac/Bronze III" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wonkyoung/solved ac/Bronze III/2476_주사위_게임.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9046_복호화" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Team_hard" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wonkyoung/solved ac/Bronze II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wonkyoung/solved ac/Bronze II/9046_복호화.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1225_이상한_곱셈" />
+        <item itemvalue="Python.2476_주사위_게임" />
+        <item itemvalue="Python.9046_복호화" />
+        <item itemvalue="Python.20436_ZOAC_3" />
         <item itemvalue="Python.2061_좋은_암호" />
-        <item itemvalue="Python.0625_solved_ac" />
-        <item itemvalue="Python.0624_solved_ac" />
-        <item itemvalue="Python.0623_solved_ac" />
-        <item itemvalue="Python.0622_solved_ac" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +366,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656161684630</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="[BOJ] 2441_별_찍기-4">
+      <created>1664377149438</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1664377149438</updated>
+    </task>
+    <task id="LOCAL-00029" summary="[BOJ] 2476_주사위_게임">
+      <created>1664455119972</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1664455119972</updated>
+    </task>
+    <task id="LOCAL-00030" summary="[BOJ] 1225_이상한_곱셈">
+      <created>1664547396282</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1664547396282</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,9 +403,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="0530" />
-    <MESSAGE value="0531" />
-    <MESSAGE value="0601" />
     <MESSAGE value="0602" />
     <MESSAGE value="0603" />
     <MESSAGE value="0604" />
@@ -397,7 +425,10 @@
     <MESSAGE value="0623 wk" />
     <MESSAGE value="0624 wk" />
     <MESSAGE value="0625 wk" />
-    <option name="LAST_COMMIT_MESSAGE" value="0625 wk" />
+    <MESSAGE value="[BOJ] 2441_별_찍기-4" />
+    <MESSAGE value="[BOJ] 2476_주사위_게임" />
+    <MESSAGE value="[BOJ] 1225_이상한_곱셈" />
+    <option name="LAST_COMMIT_MESSAGE" value="[BOJ] 1225_이상한_곱셈" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
