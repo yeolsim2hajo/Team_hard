@@ -3,8 +3,11 @@
 ### :information_desk_person: 스터디원
 <table>
   <tr>
-   <td align="center"><a href="https://github.com/hitriee"><img src="" width="100px;" alt=""/>
-   <br /><sub><b>나원경</b><br></sub></a></td>
+   <td align="center">
+    <a href="https://github.com/hitriee"><img src="" width="100px;" alt=""/>
+    <br /><sub><b>나원경</b><br></sub></a>
+    <a href="/wonkyoung">문제 풀이<a/>
+    </td>
    <td align="center"><a href="https://github.com/kaydennna92"><img src="" width="100px;" alt=""/>
    <br /><sub><b>나장엽</b><br></sub></a></td>
    <td align="center"><a href="https://github.com/Hanpark04"><img src="" alt=""/>
@@ -43,21 +46,31 @@ commit 메세지: [문제 사이트(플랫폼)]_문제번호(또는 문제이름
 
 ## :rocket: 이번 달 문제들 :sweat_drops:
 
-### ✅0919
+### ✅1023
 
-- [ ] 프로그래머스 신고 결과 받기
-- [ ] 프로그래머스 주차 요금 계산
-- [ ] 프로그래머스 양과 늑대(다음 시간에!)
+- [ ] 백준 1159 농구 경기
+- [ ] 백준 1159 농구 경기
+- [ ] 백준 1159 농구 경기
 
-### ✅0912
+### ✅1016
+
+- [ ] 백준 1159 농구 경기
+- [ ] 백준 1159 농구 경기
+- [ ] 백준 1159 농구 경기
+
+### ✅1009
 
 - [ ] 백준 1159 농구 경기
 - [ ] 백준 1890 점프
 - [ ] 백준 1025 제곱수 찾기
-- [ ] 프로그래머스 스킬체크 레벨1
+- [ ] 백준 1159 농구 경기
 
-### ✅0904
+### ✅1002
 
 - [ ] 백준 9933 민균이의 비밀번호
 - [ ] 백준 14575 뒤풀이
 - [ ] 백준 14567 선수과목
+
+
+## 스터디 문제 목록
+
