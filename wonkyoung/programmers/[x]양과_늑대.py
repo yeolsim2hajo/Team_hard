@@ -1,3 +1,4 @@
+# 220918
 # 양과 늑대
 # def solution(info, edges):
 #     length = len(info)

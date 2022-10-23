@@ -1,3 +1,4 @@
+# 220914
 # def solution(fees, records):
 #     from collections import defaultdict
 #     duration = defaultdict(int)
