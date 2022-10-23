@@ -4,8 +4,9 @@
 <table>
   <tr>
    <td align="center">
+    <b>나원경</b><br>
     <a href="https://github.com/hitriee"><img src="" width="100px;" alt=""/>
-    <br /><sub><b>나원경</b><br></sub></a>
+    <br /><sub>깃허브<sub/></a><br>
     <a href="/wonkyoung">문제 풀이<a/>
     </td>
    <td align="center"><a href="https://github.com/kaydennna92"><img src="" width="100px;" alt=""/>
