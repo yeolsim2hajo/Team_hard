@@ -4,13 +4,13 @@
 <table>
   <tr>
    <td align="center"><a href="https://github.com/hitriee"><img src="" width="100px;" alt=""/>
-   <br /><sub><b>hitriee</b><br></sub></a></td>
+   <br /><sub><b>나원경</b><br></sub></a></td>
    <td align="center"><a href="https://github.com/kaydennna92"><img src="" width="100px;" alt=""/>
-   <br /><sub><b>kaydennna92</b><br></sub></a></td>
+   <br /><sub><b>나장엽</b><br></sub></a></td>
    <td align="center"><a href="https://github.com/Hanpark04"><img src="" alt=""/>
-   <br /><sub><b>Hanpark04</b><br></sub></a></td>
-   <td align="center"><a href="https://github.com/GimChi-JJiGae"><img src="https://avatars.githubusercontent.com/u/54613889?v=4" width="100px;" alt=""/>
-   <br /><sub><b>GimChi-JJiGae</b><br></sub></a></td>
+   <br /><sub><b>박한</b><br></sub></a></td>
+   <td align="center"><a href="https://github.com/marioahn"><img src="" width="100px;" alt=""/>
+   <br /><sub><b>안희재</b><br></sub></a></td>
   </tr>
 </table>
 
