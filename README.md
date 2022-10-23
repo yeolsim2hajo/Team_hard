@@ -5,8 +5,8 @@
   <tr>
    <td align="center"><a href="https://github.com/hitriee"><img src="" width="100px;" alt=""/>
    <br /><sub><b>hitriee</b><br></sub></a></td>
-   <td align="center"><a href="https://github.com/nimusmix"><img src="https://avatars.githubusercontent.com/u/109320569?s=400" width="100px;" alt=""/>
-   <br /><sub><b>nimusmix</b><br></sub></a></td>
+   <td align="center"><a href="https://github.com/kaydennna92"><img src="" width="100px;" alt=""/>
+   <br /><sub><b>kaydennna92</b><br></sub></a></td>
    <td align="center"><a href="https://github.com/heisje"><img src="https://avatars.githubusercontent.com/u/109322450?v=4" width="100px;" alt=""/>
    <br /><sub><b>heisje</b><br></sub></a></td>
    <td align="center"><a href="https://github.com/GimChi-JJiGae"><img src="https://avatars.githubusercontent.com/u/54613889?v=4" width="100px;" alt=""/>
