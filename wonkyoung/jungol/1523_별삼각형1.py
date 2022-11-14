@@ -1,3 +1,4 @@
+#221114
 def main():
     N, M = map(int, input().split())
     if not (1 <= M <= 3) or not (1 <= N <= 100):
