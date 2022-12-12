@@ -1,4 +1,4 @@
-#2581 소수
+# 220915
 # M = int(input())
 # N = int(input())
 # total, min_val = 0, -1
