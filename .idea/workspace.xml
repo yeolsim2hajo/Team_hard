@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="[BOJ] 1225_이상한_곱셈">
-      <change afterPath="$PROJECT_DIR$/wonkyoung/programmers/programmers_조이스틱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/Bronze II/9046_복호화.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/Silver I/6118_숨바꼭질.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/Silver IV/1015_수열_정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/Silver IV/20436_ZOAC_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/Silver V/1094_막대기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/recommended/Bronze I/1259_팰린드롬수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wonkyoung/solved ac/recommended/Bronze I/15721_번데기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="628fe851-44c5-47cc-97b9-45291e2fd3be" name="Default Changelist" comment="[BOJ] 1225_이상한_곱셈" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
