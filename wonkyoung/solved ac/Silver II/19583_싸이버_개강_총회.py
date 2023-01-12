@@ -1,4 +1,4 @@
-#19583 싸이버 개강 총회
+# 220810
 # import sys
 # new_input = sys.stdin.readline
 # time_list = new_input().split()

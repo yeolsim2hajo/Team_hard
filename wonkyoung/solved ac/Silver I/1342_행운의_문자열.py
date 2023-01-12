@@ -1,4 +1,4 @@
-#1342
+# 220801
 # 팩토리얼(라이브러리 쓰면 메모리 늘어나고 시간 약간 줄어듦)  + 재귀
 # from collections import defaultdict
 # from math import factorial

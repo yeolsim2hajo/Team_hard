@@ -24,8 +24,6 @@
 스터디 문제 11659, 15654, 1342
 ```
 
-[0801_solved_ac](./0801_solved_ac.py) 1342 행운의 문자열 (S1)
-
 [0802_solved_ac](./0802_solved_ac.py) 11659 구간 합 구하기 4 (S3), N과 M (5) (S3)
 
 [0803_solved_ac](./0803_solved_ac.py) 10974 모든 순열 (S3)
@@ -42,21 +40,7 @@
 
 5일/7일
 
-[0808_solved_ac](0808_solved_ac.py) 13410 거꾸로 구구단 (B2)
-
-[0810_solved_ac](0810_solved_ac.py) 19583 싸이버 개강 총회 (S2)
-
 [0811_solved_ac](0811_solved_ac.py) 10808 알파벳 개수 (B4)
 
 [0812_solved_ac](0812_solved_ac.py)
-
-[0813_solved_ac](0813_solved_ac.py)
-
----
-
-### 8월 셋째 주
-
-### 8월 넷째 주
-
-### 8월 다섯째 주
 

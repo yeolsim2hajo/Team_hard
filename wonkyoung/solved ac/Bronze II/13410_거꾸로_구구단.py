@@ -1,4 +1,4 @@
-#13410 거꾸로 구구단
+#220808
 # N, K = map(int, input().split())
 # max_number = 1
 # for i in range(1, K+1):

@@ -28,6 +28,7 @@ else:
             new_hate, new_level = total_hate+now_hate, total_level+now_level
             q.append((new_hate, new_level))
             if new_hate <= -M:
+                pass
 
 
 
