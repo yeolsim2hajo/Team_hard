@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-   <td align="center"><a href="https://github.com/kaydennna92"><img src="" width="100px;" alt=""/>
+   <td align="center"><a href="https://github.com/kaydenna92"><img src="" width="100px;" alt=""/>
    <br /><b>나장엽</b><br></a></td>
    <td align="center"><a href="https://github.com/seojun6"><img src="" width="100px;" alt=""/>
    <br /><b>오서준</b><br></a></td>
