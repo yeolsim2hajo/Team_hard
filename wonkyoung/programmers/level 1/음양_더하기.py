@@ -17,3 +17,11 @@ def solution(absolutes, signs):
     for i in range(length):
         answer -= absolutes[i] * (-1) ** (signs[i])
     return answer
+
+#230129
+def solution(absolutes, signs):
+    answer = 0
+    length = len(signs)
+    for i in range(length):
+        answer += absolutes[i] if signs[i] else -absolutes[i]
+    return answer
