@@ -1,3 +1,5 @@
+# 220917
+# 틀림
 # def solution(k, dungeons):
 #     answer = 0
 #     dungeons = [element for element in dungeons if element[0] <= k]
