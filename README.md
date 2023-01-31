@@ -36,7 +36,8 @@
 
    오늘의 문제 깃허브 참고 => [baekjoon/picked.md](https://github.com/tony9402/baekjoon/blob/main/picked.md)
 2. 선정한 책에서 각자 맡은 부분 정리하고 설명
-
+   ```
    1일 1로그 100일 완성 IT 지식
+   ```
 3. 모의 코딩테스트 (월 1회)
 4. 1일 1알고리즘 (자율)
