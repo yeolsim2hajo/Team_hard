@@ -244,34 +244,93 @@
 # print_command()
 
 #
-def print_command():
-    from sys import stdin
-    from collections import deque
-    new_input = stdin.readline
-    N = int(new_input())
-    q = deque()
-    length = 0
-    for _ in range(N):
-        command = new_input().rstrip()
-        if command.startswith('push'):
-            number = command.split()[1]
-            q.append(number)
-            length += 1
-        else:
-            if command == 'size':
-                print(length)
-            elif not length:
-                if command != 'empty':
-                    print(-1)
-                else:
-                    print(1)
-            elif command == 'empty':
-                print(0)
-            elif command == 'pop':
-                print(q.popleft())
-                length -= 1
-            elif command == 'front':
-                print(q[0])
-            else:
-                print(q[-1])
-print_command()
+# def print_command():
+#     from sys import stdin
+#     from collections import deque
+#     new_input = stdin.readline
+#     N = int(new_input())
+#     q = deque()
+#     length = 0
+#     for _ in range(N):
+#         command = new_input().rstrip()
+#         if command.startswith('push'):
+#             number = command.split()[1]
+#             q.append(number)
+#             length += 1
+#         else:
+#             if command == 'size':
+#                 print(length)
+#             elif not length:
+#                 if command != 'empty':
+#                     print(-1)
+#                 else:
+#                     print(1)
+#             elif command == 'empty':
+#                 print(0)
+#             elif command == 'pop':
+#                 print(q.popleft())
+#                 length -= 1
+#             elif command == 'front':
+#                 print(q[0])
+#             else:
+#                 print(q[-1])
+# print_command()
+
+
+#
+# def print_command():
+#     from sys import stdin
+#     from collections import deque
+#     new_input = stdin.readline
+#     N = int(new_input())
+#     q = deque()
+#     match_func = {
+#         'size': lambda : len(q),
+#         'empty': lambda : 0 if q else 1,
+#         'pop': lambda : -1 if not q else q.popleft(),
+#         'front': lambda : -1 if not q else q[0],
+#         'back': lambda : -1 if not q else q[-1]
+#     }
+#     for _ in range(N):
+#         command = new_input().rstrip()
+#         if command.startswith('push'):
+#             number = command.split()[1]
+#             q.append(number)
+#         else:
+#             print(match_func[command]())
+# print_command()
+
+
+#
+# def print_command():
+#     from sys import stdin
+#     from collections import deque
+#     new_input = stdin.readline
+#     N = int(new_input())
+#     q = deque()
+#     match_func = [
+#         {
+#             'size': 0,
+#             'empty': 1,
+#             'pop': -1,
+#             'front': -1,
+#             'back': -1
+#         },
+#         {
+#             'size': lambda: len(q),
+#             'empty': lambda: 0,
+#             'pop': lambda: q.popleft(),
+#             'front': lambda: q[0],
+#             'back': lambda: q[-1]
+#         }
+#     ]
+#     for _ in range(N):
+#         command = new_input().rstrip()
+#         if command.startswith('push'):
+#             number = command.split()[1]
+#             q.append(number)
+#         elif q:
+#             print(match_func[1][command]())
+#         else:
+#             print(match_func[0][command])
+# print_command()
