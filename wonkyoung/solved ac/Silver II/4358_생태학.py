@@ -1,3 +1,26 @@
+#220814
+# 틀림
+# def calc_ratio():
+#     from sys import stdin
+#     new_input = stdin.readline
+#     total = 0
+#     species = {}
+#     while True:
+#         tree = new_input().rstrip()
+#         if not tree:
+#             keys = sorted(species)
+#             print(keys)
+#             for key in keys:
+#                 print(key, round(species[key] / total * 100, 4))
+#             return
+#         if species.get(tree):
+#             species[tree] += 1
+#         else:
+#             species[tree] = 1
+#         total += 1
+#
+# calc_ratio()
+
 #230318
 # from sys import stdin
 # new_input = stdin.readline
